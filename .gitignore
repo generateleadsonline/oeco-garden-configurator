@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.netlify/
+.env*
+!.env.example
+qa/
+tmp/
+.DS_Store
+research/raw/

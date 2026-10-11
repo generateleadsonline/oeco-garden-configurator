@@ -1,0 +1,17 @@
+# Quote gate and PDF
+
+`POST /api/quote` requires a validated Oeco design and name/email/UK postcode plus privacy acknowledgement. Phone and timing are optional. A UUID idempotency key avoids duplicate receipts. The handler persists the validated preview, immutable design and enquiry receipt privately before issuing a seven-day HttpOnly, SameSite session cookie. Storage errors return no price and no access cookie. The project does not send email or write Oeco's CRM.
+
+`GET /api/quote` restores the saved configuration and estimate through the private session. `PATCH /api/quote` persists a new immutable revision after accepted enquiry, with an expected previous revision and new idempotency key. Contacts are never returned to the browser. Preview deployments have independent Blob stores; the stable production store is `oeco-enquiries`.
+
+`GET /api/quote/pdf` generates the six-page guide in the server from the authorised immutable design. The request cannot supply a different quote, configuration or image key. The handler verifies the saved JPEG digest before use. It sends private/no-store, attachment and noindex headers. No publicly addressable lead or PDF store is exposed.
+
+The price book contains 2,130 exact current Oeco shape × size × style prices retrieved on 11 October 2026. Unsupported size pairings are rejected. Timber Classic and Contemporary are priced from the correct style records; composites support Contemporary. No VAT breakdown or extra fee is invented: the source did not explicitly verify VAT wording. Contemporary's standard layout has sliding doors and a letterbox window; Classic has double patio doors and a tall fixed window. Changes from those standard preferences require Oeco confirmation and receive no artificial upgrade fee.
+
+The PDF uses Oeco's original logo, Cormorant fonts and colours, alongside clear Helvetica technical text. Source font assets were downloaded from Oeco's `/inc/fonts/cormorant-v7-latin-500.woff` and `cormorant-v7-latin-700.woff`, converted to TrueType and embedded for reliable rendering. Pages: personalised saved room image and price; dimensioned external footprint; exact selections with labelled official range inspiration; source package inclusions; transparent price/scope/confirmation list; practical next steps with clickable official phone/email and a design-only QR link. The PDF explains the GLO prototype storage and that the enquiry has not been emailed to Oeco or added to its CRM.
+
+Geometry is illustrative. The plan uses the same external size, canopy projection, door width/position and corner condition as the shared renderer geometry. Internal floor area is never represented as an exact promise. Planning, site suitability, materials, construction, glazing, promotion eligibility and final quotation require Oeco review.
+
+Verification: tests exercise all 2,130 source prices, server gating, consent/contact validation, idempotency, immutable updates, session expiry, private preview integrity, context isolation, origin/honeypot/body checks and fail-closed storage. Live QA must also submit a synthetic enquiry and inspect the downloaded PDF before delivery.
+
+Local checks passed: 17 tests. Six pages were rendered for the default 4m × 3m Canopy, smallest 2.5m × 2.5m Cube and widest 10m × 3m Canopy Corner. Text extraction confirms price and selections; PDF bounding checks found no text outside the pages. Visual review found no collisions or cropped plan dimensions. Live captured-preview verification remains a deployment check.

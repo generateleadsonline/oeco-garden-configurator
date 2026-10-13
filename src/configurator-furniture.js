@@ -124,7 +124,9 @@ export function furnish(parent, state, room, kit) {
     const heat = group(local, 'heaters');
     const glassWhite = std('#f7f7f5', {roughness: .15, metalness: .05});
     let placed = 0;
-    for (const [side, prefer] of [['back', iw * .25], ['left', 0], ['back', -iw * .25], ['right', 0]]) {
+    // Clear of the acoustic panels when the back wall has them.
+    const spots = ex.acousticPanels ? [['left', 0], ['right', 0], ['front', -iw * .3]] : [['back', iw * .25], ['left', 0], ['back', -iw * .25], ['right', 0]];
+    for (const [side, prefer] of spots) {
       if (placed >= ex.heaters) break;
       if (side === 'right' && blockRight) continue;
       const pos = findFree(side, .45, prefer, .7);

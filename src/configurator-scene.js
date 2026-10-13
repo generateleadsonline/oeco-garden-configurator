@@ -565,7 +565,7 @@ function setupScene(container, renderer, {onLost = () => {}, onBroken = () => {}
     dim(new THREE.Vector3(w / 2, y, d / 2), new THREE.Vector3(w / 2, y, -d / 2), `${d.toFixed(1)}m`, new THREE.Vector3(.6 + off.right, 0, 0));
     if (view === 'plan') {
       if (r.canopy) dim(new THREE.Vector3(-w / 2, y, d / 2), new THREE.Vector3(-w / 2, y, d / 2 + off.front), `${off.front.toFixed(1)}m`, new THREE.Vector3(-.6 - off.left, 0, 0));
-      if (state.deck && state.deck !== off.front) dim(new THREE.Vector3(w / 2, y, d / 2), new THREE.Vector3(w / 2, y, d / 2 + state.deck), `Deck ${state.deck.toFixed(1)}m`, new THREE.Vector3(1.5 + off.right, 0, 0));
+      if (state.deck && state.deck !== off.front) dim(new THREE.Vector3(-w / 2, y, d / 2), new THREE.Vector3(-w / 2, y, d / 2 + state.deck), `Deck ${state.deck.toFixed(1)}m`, new THREE.Vector3(-(r.canopy ? 1.3 : .6) - off.left, 0, 0));
       const iw = w - 2 * WALL, id = d - 2 * WALL;
       dim(new THREE.Vector3(-iw / 2, y, -d / 2 + WALL + .02), new THREE.Vector3(iw / 2, y, -d / 2 + WALL + .02), `${iw.toFixed(2)}m inside`, new THREE.Vector3(0, 0, .45));
       void id;

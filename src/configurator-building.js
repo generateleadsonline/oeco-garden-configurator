@@ -285,7 +285,8 @@ export function buildRoom(state, tex) {
       const top = Math.min(lv(x, z0).skinTop, lv(x, z1).skinTop) - .001, h = top - (FLOOR - .03);
       // Cladding outside and in, the front end in the trim (the porch's frame), the hidden back.
       add(pg, metricBox(WALL, h, z1 - z0), [cladMat, cladMat, hidden, hidden, hidden, hidden], x, FLOOR - .03 + h / 2, (z0 + z1) / 2, 'porch', 'cladding');
-      box(pg, WALL + .05, FLOOR - .015, .02, x, (FLOOR - .015) / 2 + .01, z1 + .015, skirtMat, 'base', 'trims');
+      // Its base trim, unless deeper decking carries on in front of the porch.
+      if (!(state.deck > PORCH)) box(pg, WALL + .05, FLOOR - .015, .02, x, (FLOOR - .015) / 2 + .01, z1 + .015, skirtMat, 'base', 'trims');
       // The frame: a trim on the wing's front face, as Oeco's Concave photos.
       box(pg, WALL + .016, h, .008, x, FLOOR - .03 + h / 2, z1 + .004, trimMat, 'trims', 'porch');
       // Base trim along the wing's outside face, continuing the side wall's.
@@ -500,8 +501,9 @@ export function buildRoom(state, tex) {
     if (r.porch) {
       // The porch is decked wall to wall; deeper decking carries on in front of it.
       const zp = zFront + PORCH;
-      deckArea(dg, -w / 2 + WALL + .003, w / 2 - WALL - .003, zFront + .03, state.deck > PORCH ? zp : zp - .004, {front: state.deck <= PORCH, sides: false});
-      if (state.deck > PORCH) deckArea(dg, -w / 2 - .03, w / 2 + .03, zp + .03, zFront + .03 + state.deck, {front: true, sides: true});
+      // The porch is decked wall to wall; deeper decking carries on in front of it with no gap.
+      deckArea(dg, -w / 2 + WALL + .003, w / 2 - WALL - .003, zFront + .03, state.deck > PORCH ? zp - .001 : zp - .004, {front: state.deck <= PORCH, sides: false});
+      if (state.deck > PORCH) deckArea(dg, -w / 2 - .03, w / 2 + .03, zp + .001, zFront + .03 + state.deck, {front: true, sides: true});
     } else deckArea(dg, -w / 2, w / 2, zFront + .03, zFront + .03 + state.deck, {front: true, sides: true});
   }
 

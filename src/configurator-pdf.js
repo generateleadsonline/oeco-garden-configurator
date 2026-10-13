@@ -216,7 +216,8 @@ export async function downloadPDF(input, views = {}, options = {}) {
   };
   pdf.addPage(); frame('Your specification', 'Everything in your design, and how each item is priced.');
   let sy = 54, lastSection = '';
-  for (const row of specRows(state, {now})) {
+  // Delivery, installation and the guarantee are on the price and next-steps pages.
+  for (const row of specRows(state, {now}).filter(x => x.section !== 'Service')) {
     set(8.2, false, C.ink);
     const lines = pdf.splitTextToSize(row.value, 104);
     const need = 3.9 * lines.length + 2.6 + (row.section !== lastSection ? 9 : 0);

@@ -1,20 +1,16 @@
 [build]
-  command = "npm run build"
-  publish = "dist"
-  functions = "netlify/functions"
-[build.environment]
-  NODE_VERSION = "22"
-[functions]
-  node_bundler = "esbuild"
-  included_files = ["public/assets/**"]
+  command = "sh build.sh"
+  publish = "public"
+
+# public/ is generated from src/ by tools/build.py and committed, so Netlify only checks it.
+# Headers (noindex, CSP with hashes, caching) live in public/_headers, written by the build.
+
 [[redirects]]
-  from = "/configurator/*"
-  to = "/index.html"
-  status = 200
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Content-Type-Options = "nosniff"
-    Referrer-Policy = "strict-origin-when-cross-origin"
-    X-Robots-Tag = "noindex, nofollow"
-    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+  from = "/"
+  to = "/configurator/"
+  status = 302
+
+[[redirects]]
+  from = "/configurator"
+  to = "/configurator/"
+  status = 301

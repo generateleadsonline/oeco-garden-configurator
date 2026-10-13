@@ -1,0 +1,175 @@
+{
+  "verifiedAt": "2026-10-13T06:38:23.344019+00:00",
+  "extras": [
+    {
+      "name": "Electrical Connection",
+      "price": null,
+      "sourceUnit": null
+    },
+    {
+      "name": "Internal Recessed Downlights",
+      "price": null,
+      "sourceUnit": null
+    },
+    {
+      "name": "Canopy Roof Side Extension",
+      "price": null,
+      "sourceUnit": null
+    },
+    {
+      "name": "Double Socket - White",
+      "price": 30,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Double Socket - Brushed Aluminium",
+      "price": 35,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Canopy Roof Downlights",
+      "price": 45,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "External Up\\Down Lights",
+      "price": 55,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "External Waterproof Double Socket",
+      "price": 105,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "LED Ceiling Light Panel - 600mm x 600mm",
+      "price": 145,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "RGB LED Ceiling Light Panel - 600mm x 600mm",
+      "price": 215,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "LED Ceiling Light Panel - 1200mm x 600mm",
+      "price": 245,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Electric Panel Heater",
+      "price": 150,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Rainwater Butt",
+      "price": 95,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Decking - Composite",
+      "price": 195,
+      "sourceUnit": "m\u00b2"
+    },
+    {
+      "name": "Internal Dividing Wall",
+      "price": 95,
+      "sourceUnit": "m\u00b2"
+    },
+    {
+      "name": "Internal Timber Door",
+      "price": 495,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Acoustic Wall Panels",
+      "price": 145,
+      "sourceUnit": null
+    },
+    {
+      "name": "Acoustic Plasterboard",
+      "price": 20,
+      "sourceUnit": "m\u00b2"
+    },
+    {
+      "name": "Acoustic Insulation",
+      "price": 15,
+      "sourceUnit": "m\u00b2"
+    },
+    {
+      "name": "Acoustic Glass",
+      "price": 250,
+      "sourceUnit": "m\u00b2"
+    },
+    {
+      "name": "Tall Fixed Glass Window Panel - 0.5m x 2.02m",
+      "price": 325,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Tall Fixed Glass Window Panel - 0.75m x 2.02m",
+      "price": 395,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Tall Fixed Glass Window Panel - 1.0m x 2.02m",
+      "price": 485,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Wide Opening Window - 850mm x 400mm",
+      "price": 325,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Wide Opening Window - 1200mm x 500mm",
+      "price": 355,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Wide Opening Window - 1200mm x 750mm",
+      "price": 395,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Tall Opening Window - 400mm x 1.6m",
+      "price": 385,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Tall Opening Window - 750mm x 1.6m",
+      "price": 485,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Panoramic Fixed Window - 2.02m x 500mm",
+      "price": 325,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Single Door - 900mm x 2.02m",
+      "price": 995,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Double Patio Doors - 1.5m x 2.02m",
+      "price": 1625,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Sliding Patio Doors - 2.4m x 2.02m",
+      "price": 1895,
+      "sourceUnit": "each"
+    },
+    {
+      "name": "Aluminium Bi-Folding Sliding Doors - 2.2m Wide",
+      "price": 1495,
+      "sourceUnit": "upgrade"
+    },
+    {
+      "name": "Aluminium Bi-Folding Sliding Doors - 3.0m Wide",
+      "price": 1695,
+      "sourceUnit": "upgrade"
+    }
+  ]
+}

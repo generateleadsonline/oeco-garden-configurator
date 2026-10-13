@@ -1,14 +1,17 @@
 node_modules/
 dist/
+.env
 .netlify/
-.env*
-!.env.example
-qa/
-tmp/
+.qa-forms.ndjson
+qa-screens/
+/iphone-*.png
+/android-*.png
 .DS_Store
+# Public repository: Oeco's own pages and photos stay local. The factual JSON extracts are kept.
 research/raw/
+research/photos-*/
 research/*.html
 research/*.css
+research/audit-*/**/*.html
 research/*.json
 research/fetch-*.py
-server/assets/

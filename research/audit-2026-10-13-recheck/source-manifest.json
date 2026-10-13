@@ -1,0 +1,2940 @@
+{
+  "verified": "2026-10-13",
+  "verifiedAt": "2026-10-13T13:09:37.264217+00:00",
+  "pages": [
+    {
+      "url": "https://www.oecogardenrooms.co.uk/garden-rooms.html",
+      "sha256": "2a65d9e18361529d949a81e69cf04779f0e34f12139d56d1cfee65d75657ad4b",
+      "file": "product.html"
+    },
+    {
+      "url": "https://www.oecogardenrooms.co.uk/pages/optional-extras.html",
+      "sha256": "e8acb5673d98b325bcebdd03de19fe46cc061ac95861fb59d4b7eb6fd0b426c7",
+      "file": "extras.html"
+    },
+    {
+      "url": "https://www.oecogardenrooms.co.uk/pages/exterior-specifications.html",
+      "sha256": "af54b0e05bb0b27c2692ae224575f2682829ddcbcdafc22194235026708ed317",
+      "file": "exterior.html"
+    },
+    {
+      "url": "https://www.oecogardenrooms.co.uk/pages/interior-specifications.html",
+      "sha256": "306480516ab2473a1cd7a571c7333d648277a98fe44762291ab18bc656dc4db1",
+      "file": "interior.html"
+    },
+    {
+      "url": "https://www.oecogardenrooms.co.uk/brochure.html",
+      "sha256": "640219ee70f5e678b6c34be72b2fb5cf340f2d558f2e642a93fc06428a1f89d3",
+      "file": "brochure.html"
+    },
+    {
+      "url": "https://www.oecogardenrooms.co.uk/visit.html",
+      "sha256": "41ff898cc3421dbca30b616c293d89e19755ef26bc8e685d8328b427a3daa91f",
+      "file": "showroom.html"
+    },
+    {
+      "url": "https://www.oecogardenrooms.co.uk/contact.html",
+      "sha256": "9b51426f3da65f1d403bfcf103ae4e385ed3a65c54adbc6f8ce89a8ef12e3c5d",
+      "file": "contact.html"
+    },
+    {
+      "url": "https://www.oecogardenrooms.co.uk/resources.html",
+      "sha256": "8a7c788fc9d7b7d720d42da3b639dcdc6a97f75d35c65107b45ae8e8c6a048c4",
+      "file": "resources.html"
+    },
+    {
+      "url": "https://www.oecogardenrooms.co.uk/pages/ready-to-order.html",
+      "sha256": "b87e1014f242588e33ad8224ededa73445148f61dab37bef8812d6934b7cca65",
+      "file": "ready-to-order.html"
+    },
+    {
+      "url": "https://www.oecogardenrooms.co.uk/",
+      "sha256": "64c8776274d5917e3f65ac0fb93dbd245c69c5179239e77b0b6c09507c096afc",
+      "file": "homepage.html"
+    }
+  ],
+  "styleResponses": [
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "2.50-2.50",
+        "step": "style"
+      },
+      "sha256": "ed3a973f7ced74d60673bc557af79a1aba980e9fed668d61efc7b6ac4e172e70"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "3.00-2.50",
+        "step": "style"
+      },
+      "sha256": "6507edef6fb6f676dc6e4727de92b1c2f476497c2e0f06b74daa0fba27491a43"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "3.00-3.00",
+        "step": "style"
+      },
+      "sha256": "4d1fb14225e31203724c246665c35b6f09a9972482c59b7977d05f9b7c819f3d"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "3.00-3.50",
+        "step": "style"
+      },
+      "sha256": "52e8acc6f519bf1195c8d31168e69b61d8cb432989bb00686e61e81f5b7a0d8d"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "3.00-4.00",
+        "step": "style"
+      },
+      "sha256": "cd41a45cc3b7c6544e0f58e0525d461595a834909e18e6dcce75377f9a95e732"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "3.00-4.50",
+        "step": "style"
+      },
+      "sha256": "019cc9529bd8a2761a6aa578ebac0d2cccb4b1b9d2bc5586ec70f5e84206fa88"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "3.00-5.00",
+        "step": "style"
+      },
+      "sha256": "4d3e4b4d8d79d78e2acf82ea4d36cd64080fd408f271ab1ee7808280d1f4c815"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "3.50-2.50",
+        "step": "style"
+      },
+      "sha256": "f63acdcebe8b08b9a65e51fbe86f67f494c0fce41f07c1e62b64204c8de5c6dc"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "3.50-3.00",
+        "step": "style"
+      },
+      "sha256": "9a738bf7628392ee63797b62ec02f04f475b9ebdb494b99719c9b08b6c8c3369"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "3.50-3.50",
+        "step": "style"
+      },
+      "sha256": "8c54fd0cdfb4e02fe25f959c10bdc2ce040793e0cd1d7e01e17bed1d35e16ac8"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "3.50-4.00",
+        "step": "style"
+      },
+      "sha256": "c724b39453d7a42558bfffd92ea879023a9df10985eaf1d37d6bda703a25070d"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "3.50-4.50",
+        "step": "style"
+      },
+      "sha256": "255d9f01cec9ad7cfce633ce5b9471de66d486801f3f7a9856ac1a76eb15d52b"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "3.50-5.00",
+        "step": "style"
+      },
+      "sha256": "d5e026436b4ba53a13a38e7ee09a7789e1b218d7ea83e431bb6d82a30f51089b"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "4.00-2.50",
+        "step": "style"
+      },
+      "sha256": "94fcb848e89bc92ac5dfc0182a80dd3a370c73fcd0216a82a9d4b7f16efa2be8"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "4.00-3.00",
+        "step": "style"
+      },
+      "sha256": "a2a155d6d9937719c42c534f0720d051c03fd61767a080707fc0ada87ced8203"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "4.00-3.50",
+        "step": "style"
+      },
+      "sha256": "b8cca83dec75c04997302d7b270788608bc15b4c329b04412967b7a611330555"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "4.00-4.00",
+        "step": "style"
+      },
+      "sha256": "1467f33da8c700e3c72c86a6e4372427f8c6f134e9e0c26f490802942c655ade"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "4.00-4.50",
+        "step": "style"
+      },
+      "sha256": "8bba959870d9cda38ba7199c4f6dba8fb3927b4a5fa7729e9d5b3b5edadfe1f8"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "4.00-5.00",
+        "step": "style"
+      },
+      "sha256": "2331ca3122e44bee741a10e9e86b4f6aecd946786b657ae4061d670cf7fd88e4"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "4.50-2.50",
+        "step": "style"
+      },
+      "sha256": "dd4ac432148b0bb14f9e036c24741f73191add337b723f86a9f7ea90ad8c5b9c"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "4.50-3.00",
+        "step": "style"
+      },
+      "sha256": "8126e4adb9576f334fa8da8aaf84e663e888305df99ec47adc43184f6929d262"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "4.50-3.50",
+        "step": "style"
+      },
+      "sha256": "4304001bceb12e794a90c156c5d06630f74d07b2c1aa177253747a10225028c0"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "4.50-4.00",
+        "step": "style"
+      },
+      "sha256": "5506ce4a1367255e7e0abc8861143cda681c8baac2e75d94aa9261a504438331"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "4.50-4.50",
+        "step": "style"
+      },
+      "sha256": "98ee343ef2240b42ec39588408d62bb68505740333c0953c8815f43ced6eb811"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "4.50-5.00",
+        "step": "style"
+      },
+      "sha256": "5e92c7492bc9e5b4f2484532c4f802b5e9328ad062faa1c34e31f7b2943a3359"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "5.00-2.50",
+        "step": "style"
+      },
+      "sha256": "598da514445241ff302bfd00c3214149973f2ac839ac15c96b349be14c874e7e"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "5.00-3.00",
+        "step": "style"
+      },
+      "sha256": "3fc8f78653fc950b54526fab3bb40fa4830829b6d857163e3f41bc8d67d484a0"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "5.00-3.50",
+        "step": "style"
+      },
+      "sha256": "1c5de84887b2ef67c7bb436006c15fc727b6aa3fb23dad5847fc0b602bd921b1"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "5.00-4.00",
+        "step": "style"
+      },
+      "sha256": "f7410d8c9b550dbdcc426eab83409226649d5d1426d0868b79dd8423fef9896d"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "5.00-4.50",
+        "step": "style"
+      },
+      "sha256": "94bc942f32a9363c758c5c8554933800b5039128cab2eef7b143f7b331cdee25"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "5.00-5.00",
+        "step": "style"
+      },
+      "sha256": "f07111fae1d17614cc19ecf0d551be3e0fe8b8ba6e0dd8c49dcd6b5da695c15e"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "5.50-2.50",
+        "step": "style"
+      },
+      "sha256": "e8d956a0dc93fd1d9d36bc89249575be50870f2ef79876dbfbff5ee434dc21de"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "5.50-3.00",
+        "step": "style"
+      },
+      "sha256": "e32894ffdf2ea772e856a5c383a0eb6010f61fc0fe5ae8fb8badf615a2016f7e"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "5.50-3.50",
+        "step": "style"
+      },
+      "sha256": "03f7fb710305f7c38a5fd1c606f290926090b467df3a8534f0669cd2a0bbc9a9"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "5.50-4.00",
+        "step": "style"
+      },
+      "sha256": "50eb6d494e6a2d4bd07f16fe38890066c03954c790a53f4b899a18c4a5ab9ea8"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "5.50-4.50",
+        "step": "style"
+      },
+      "sha256": "64c7043023052893406bd74447b83c868cdf8879c8642d81019c7cfa9007b946"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "5.50-5.00",
+        "step": "style"
+      },
+      "sha256": "6bcb4a3b60fcb5a41c2b5c059146a0af240e1f51c3f6453d2d6aafb975a87faf"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "6.00-2.50",
+        "step": "style"
+      },
+      "sha256": "da5687bd7a721f19e682f559e0272bd7662b39cf5350827f87fcc0b44322dbe3"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "6.00-3.00",
+        "step": "style"
+      },
+      "sha256": "8813cae7d6f32de33034b48e2d36d35bf18c618168bf84497944361f2bc252b4"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "6.00-3.50",
+        "step": "style"
+      },
+      "sha256": "5e19072f6ce60af047186c7b4a796f1281dd4606aef401f807f0a4dbb962bbb2"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "6.00-4.00",
+        "step": "style"
+      },
+      "sha256": "bb9c57db3592ff7c84ef1fd8ae9ae799a1a1b0247f483d109a2cb4c416793ce2"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "6.00-4.50",
+        "step": "style"
+      },
+      "sha256": "12048370fc8fdb37e1ec7098565e47d3aa3abe955df1014826c31b67b4380ce5"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "6.00-5.00",
+        "step": "style"
+      },
+      "sha256": "5b47f211fecc7e6faec35364fac0d7d0b499b1cd68db1a2227ed5296f7f7f214"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "6.50-2.50",
+        "step": "style"
+      },
+      "sha256": "b108470bcf7facfeadec59fbbf048009c332d27cf473824f37a893fcd86dc13e"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "6.50-3.00",
+        "step": "style"
+      },
+      "sha256": "6fd76a9463de837d82d1473d415d47e6b8652b2d45c1df9c4de18fdf397be769"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "6.50-3.50",
+        "step": "style"
+      },
+      "sha256": "a5b5ad670b4478824e7e6bbe8ec821ab4cea3fb46f90782273b6ecc1db51189b"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "6.50-4.00",
+        "step": "style"
+      },
+      "sha256": "165b702de641ec34576726e8aee4f27eb4d6d20a0fba1b4a688a3107547a5337"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "6.50-4.50",
+        "step": "style"
+      },
+      "sha256": "7e6a7b7fa10aaa7eb4755a4fe3af54df1fc267aba22edf38f673f8ea77688306"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "7.00-2.50",
+        "step": "style"
+      },
+      "sha256": "36471bc82d9b112799c90b144dd40b2a320efce29fd09abef05b6975c14e8e4b"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "7.00-3.00",
+        "step": "style"
+      },
+      "sha256": "c72af53987b5f6d45a659ec63025277a6fe3d3e171aa58a1151941e103e0033e"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "7.00-3.50",
+        "step": "style"
+      },
+      "sha256": "9d8bf9a86bed3dfd77802ecb4e9d844affefca3a6276e788ddc22b1eabf19723"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "7.00-4.00",
+        "step": "style"
+      },
+      "sha256": "1108bf188bc4489becba0a0da5efb533b112834d36e4c8d9a861e4998b3ca39a"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "7.00-4.50",
+        "step": "style"
+      },
+      "sha256": "5309723b931c19226a756cf5a7e77d632049601ad532d34c63ffcfd32de95495"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "7.50-2.50",
+        "step": "style"
+      },
+      "sha256": "082a7d409aff6f583ef7ba9493fa9e06b8765e446e49c022bc1a6842d613b9dd"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "7.50-3.00",
+        "step": "style"
+      },
+      "sha256": "fcb8ac878152825d65b2a3647570a56215becda6c757d19f8ff2ea8e42c05eb3"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "7.50-3.50",
+        "step": "style"
+      },
+      "sha256": "77b3c574385ff48c7c616e10f34fe5df117afb1f36cd384f3003247742d7ecfe"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "7.50-4.00",
+        "step": "style"
+      },
+      "sha256": "83180b7cc2833d66c5adb3302fd5d99379013fb5a9ea0e18280f85143ae821cf"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "8.00-2.50",
+        "step": "style"
+      },
+      "sha256": "9eb6d5c01efd94b62e483d17b228b7691b210dda955fa4dc485196bab1c5a29d"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "8.00-3.00",
+        "step": "style"
+      },
+      "sha256": "1c83f933326422cede8307f7df214e7fceb1833437ad9af1fd62132bb6167676"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "8.00-3.50",
+        "step": "style"
+      },
+      "sha256": "3ea31b284f875c6b2f798e42d35132868c2d187bb23aa4b22ab807f087e850b5"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "8.00-4.00",
+        "step": "style"
+      },
+      "sha256": "65ed6dcbe94faaf3d335ee04b59a674a6b71e792323af765713a245393e296c5"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "8.50-2.50",
+        "step": "style"
+      },
+      "sha256": "3e421228a796602b5c5180606b2f84ae44c16f10be4fbcd8c4e9eebe592c874c"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "8.50-3.00",
+        "step": "style"
+      },
+      "sha256": "393a8b216aa55b63a92a1f82192700049c65a36f4dbf0b153c5032c7950a5526"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "8.50-3.50",
+        "step": "style"
+      },
+      "sha256": "505f3bb596a332ada82def74897940492fac52d7d2a928464254d03490679c3e"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "9.00-2.50",
+        "step": "style"
+      },
+      "sha256": "9e9701fbb430d8e07a8c6fb6117669c9fa59b4ff295fd14f804dbd7f3a7054a6"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "9.00-3.00",
+        "step": "style"
+      },
+      "sha256": "7dc076393fe30be40c21aef2158a24c6e6ac855218b7b436ed7e997ee2ef79ae"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "9.00-3.50",
+        "step": "style"
+      },
+      "sha256": "1867ede23ba4f34e6ee849aae420fa5bc1bb326c7964180516ac87dbf84499e4"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "9.50-2.50",
+        "step": "style"
+      },
+      "sha256": "1b0cc91ce8ea13521e25ba843466dde77ef35dd229f2c03b7d80ccf275aa50f0"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "9.50-3.00",
+        "step": "style"
+      },
+      "sha256": "880d779a110e8daf39125fc1d0503a274ea39a53f319a38c641cc77d8360e055"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "10.00-2.50",
+        "step": "style"
+      },
+      "sha256": "f9687f3d9a57eb87d8025cd1afc4b48d73735714e7ec5fe064802bc8a9284c0c"
+    },
+    {
+      "payload": {
+        "shape": "Cube",
+        "size": "10.00-3.00",
+        "step": "style"
+      },
+      "sha256": "9680665c528729ddc765db03e06232ac78db1e340dfa60bfce9e01916bb767d2"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "2.50-2.50",
+        "step": "style"
+      },
+      "sha256": "d35659a5d375c5047b90f007f14c791c84c7882302d0e504eea78736c2a051fa"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "3.00-2.50",
+        "step": "style"
+      },
+      "sha256": "24175e72025e45c4865400fa3e0b64c62418c7744b1510da22ae6d5f776bd505"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "3.00-3.00",
+        "step": "style"
+      },
+      "sha256": "6214539e8520d95fe44001e8df0b0e99d8e98bd754dd2b74a62f5754ceb98b0a"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "3.00-3.50",
+        "step": "style"
+      },
+      "sha256": "572db60e98f5ce1864b82b73f2ff1e82517fd5d24b38c2a08460128143330df1"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "3.00-4.00",
+        "step": "style"
+      },
+      "sha256": "b6594cd3a9dedb8a720d73c22c3435c75108bf8a536b65c96e37bfc3f863775e"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "3.00-4.50",
+        "step": "style"
+      },
+      "sha256": "5d713dddba022713472653a28782d99e76f23d937116d0230d7ae4af9b2120d2"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "3.00-5.00",
+        "step": "style"
+      },
+      "sha256": "dd60642aa75c1cded51dec27327ea6860e8249dfe127e9f9cf0d7d9777cd4f2f"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "3.50-2.50",
+        "step": "style"
+      },
+      "sha256": "e6c03667545ba374cc8c790fd8d5aa5971a326b2d3c5bb5bdd12872b03d2581a"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "3.50-3.00",
+        "step": "style"
+      },
+      "sha256": "8993ecc092e9afd4a16729033da67458871c55d5e24dbe5d8f823bd2c09d6544"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "3.50-3.50",
+        "step": "style"
+      },
+      "sha256": "87698e6fd7a0cf120f9cce22623e57abdfd46e831c5f2857d615a973133e8955"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "3.50-4.00",
+        "step": "style"
+      },
+      "sha256": "acf51f7ba1b767d341b7d9569916088fd298a49172ee84275324c296712ab08e"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "3.50-4.50",
+        "step": "style"
+      },
+      "sha256": "002dc50d6a2fa356f4a7cf73ec1117cf9d23ef3ce72e831f8b821db582289623"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "3.50-5.00",
+        "step": "style"
+      },
+      "sha256": "8dea71054bad7ad9085bbc8e657cef9debde706b37471f72f78d3a55992cc9f0"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "4.00-2.50",
+        "step": "style"
+      },
+      "sha256": "10cd76be7a0b68a9ba2472e92bfb3784e939f4aae98792ae9a7f2bf31afe4633"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "4.00-3.00",
+        "step": "style"
+      },
+      "sha256": "d835ae5662f5e9321a75e29a67bcc4864fad4010bfb2ef2beaa483bc1f66e961"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "4.00-3.50",
+        "step": "style"
+      },
+      "sha256": "3dd1fdd7d40f6c69fbaa1244d17a519e2fac7fc8a88d3b840c46f62f1f87b4ec"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "4.00-4.00",
+        "step": "style"
+      },
+      "sha256": "77eb240d478d9769702c717b0ac48f3df4522d4b21921bac349a1abf5ea44bd5"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "4.00-4.50",
+        "step": "style"
+      },
+      "sha256": "d86a2c7256f2bd9477788b886ea379cc89223d954bd2947755d3a943f04659df"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "4.00-5.00",
+        "step": "style"
+      },
+      "sha256": "a2b0d3787c06847e2a323de9ffa7033b7ae34f4d1579e8cc702da5afc395e000"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "4.50-2.50",
+        "step": "style"
+      },
+      "sha256": "771e1c6ff9610f8635718f33075ea380f37a051ef49b632ba71feec16014f47b"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "4.50-3.00",
+        "step": "style"
+      },
+      "sha256": "f101e2bc24d732007c59237bf12a9f7deae6383f70856d478036ca869e9d6e07"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "4.50-3.50",
+        "step": "style"
+      },
+      "sha256": "18380fdbec87708a7a93bc545bac9474e3256763e6d47775e9069a31eaae8572"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "4.50-4.00",
+        "step": "style"
+      },
+      "sha256": "c0ae2cf995ad05db8dfc164dcf41c659f0b14ea5b995177c9bb245e481dce5a3"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "4.50-4.50",
+        "step": "style"
+      },
+      "sha256": "3e196d6cccb8e482cd543e45eff66240ea2731fd35e11c7bf038fb6b16003490"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "4.50-5.00",
+        "step": "style"
+      },
+      "sha256": "353a6392a36c8ccbb12a1df603d5fab89a8459151285e026c08b1a07393dee77"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "5.00-2.50",
+        "step": "style"
+      },
+      "sha256": "09d6912fe1e082eff74f36d98b220ad83956fb8ab9c83aff57d718776425a0a9"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "5.00-3.00",
+        "step": "style"
+      },
+      "sha256": "381b61a8e2d0d57eb03abf4883109e263ced06f3f747f83c4452eeb85b09c978"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "5.00-3.50",
+        "step": "style"
+      },
+      "sha256": "65f9f689d5736087fc03a864b7875932d7e2bc12fc7d7018969da49c6bd9a44c"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "5.00-4.00",
+        "step": "style"
+      },
+      "sha256": "a2fd8da0d437c70337836a082b5aff70a0839bc4f18d3fb6d3b0c827e260324e"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "5.00-4.50",
+        "step": "style"
+      },
+      "sha256": "934620e1b1f3126aaf154730d321509d5c5da26ff06b3f6558235d2042878366"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "5.00-5.00",
+        "step": "style"
+      },
+      "sha256": "169cc6cd074c878859e57b5893c58b554b753e17842c086b61a12edd487946da"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "5.50-2.50",
+        "step": "style"
+      },
+      "sha256": "5942144d4cce1d8917b9323de56268716f360866400208fc8d5f498004b5cee2"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "5.50-3.00",
+        "step": "style"
+      },
+      "sha256": "918b546889a61f8d30a26ecee1fa99ec1fced003ec6ede81715dae67f3c50595"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "5.50-3.50",
+        "step": "style"
+      },
+      "sha256": "4f3e622d0bbbf44157c6debabb6a80ac779599fabc135ac596540237fbf77250"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "5.50-4.00",
+        "step": "style"
+      },
+      "sha256": "3542ab4c981623ad72ed7ead80509c4b67c33894d184dd216f640e36fcae1664"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "5.50-4.50",
+        "step": "style"
+      },
+      "sha256": "deaed7effcaf07c712cee32427b891113341de2e61ee835bc1a24e1112fbda5e"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "5.50-5.00",
+        "step": "style"
+      },
+      "sha256": "9ae0aafe1be5bdc48f49d170263a7960eef2428cc627a0e0abfa2f0456388483"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "6.00-2.50",
+        "step": "style"
+      },
+      "sha256": "1e726cb1f1c0c7057e1f8c3703690790121dfeddf1f2e6404528d022c017f28e"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "6.00-3.00",
+        "step": "style"
+      },
+      "sha256": "1f4aaa9b2c616a1dcc3d43d2f735f48c52b33b920d5e60dba7671fd0ff16fc46"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "6.00-3.50",
+        "step": "style"
+      },
+      "sha256": "9eef2258e496fee9ea5fb4d0f922d07ef17537bf9b4d78360070ee672a14b57d"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "6.00-4.00",
+        "step": "style"
+      },
+      "sha256": "ce4811f616053f03b62198373e9e8d5d55d34a0a0fa15d47e19dcc3034ff6deb"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "6.00-4.50",
+        "step": "style"
+      },
+      "sha256": "f4a44bf6863aa4c1d8169100f64ed6b5f943b4c4b98094167b032281f8a39594"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "6.00-5.00",
+        "step": "style"
+      },
+      "sha256": "26d2e3db4cd5e2b7cde209077308f553806c19efad8d64c8b3550005da668fd3"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "6.50-2.50",
+        "step": "style"
+      },
+      "sha256": "ab96c5f8acb3c23b56bf9fafb2caf621181c93594158b257ed2b25492bb08377"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "6.50-3.00",
+        "step": "style"
+      },
+      "sha256": "0ffc4b5703822c9ca3a0dfefc3eb6b3ddc8d22810b613575b2c97bc1f9266376"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "6.50-3.50",
+        "step": "style"
+      },
+      "sha256": "c1f45c3455bad3d81887e9560cfb70690daf5b47c76e98fcfa32354d9bb5d0ba"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "6.50-4.00",
+        "step": "style"
+      },
+      "sha256": "7106b5b4ff90ccf14f4ade2e3d857017ed95a02bd4c9738e9e1894bceec048b8"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "6.50-4.50",
+        "step": "style"
+      },
+      "sha256": "1559d3672bf3f4be0cef1e2a334b65d5e536deaa46019fd703ec0f766459644e"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "7.00-2.50",
+        "step": "style"
+      },
+      "sha256": "71429653f7e53638bd601587a3f26012a9a3de1677f8af08d3d28a7675a2f55f"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "7.00-3.00",
+        "step": "style"
+      },
+      "sha256": "67e7a6638103133aa38781f3c8eea055c399ae9764951fe52b77298936e5900c"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "7.00-3.50",
+        "step": "style"
+      },
+      "sha256": "1ae1d11cad3f4e88cbf916d629931b535f3baac626820ff66a1f3fa307f18ba7"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "7.00-4.00",
+        "step": "style"
+      },
+      "sha256": "961a7397522ed457195db9f15f373d5db4c3a34be2a2178e88b9f5ca73951671"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "7.00-4.50",
+        "step": "style"
+      },
+      "sha256": "ee7dcdc9d5f33b54c8199496cea2dedb14d974123b559a2b7113604b31c28de4"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "7.50-2.50",
+        "step": "style"
+      },
+      "sha256": "8d15b6d86d39a04cff6be7f89e7a8be1db6a528297996443e597b876ff5c912a"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "7.50-3.00",
+        "step": "style"
+      },
+      "sha256": "c9d5c8928249b60e14d5813c56c0be35ffc21e8b71518cfdeabd9dcd372bc199"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "7.50-3.50",
+        "step": "style"
+      },
+      "sha256": "2423c7ce2e4d7557cab36832faf894d7b4f0833ad6e65ff1cdef60407a602cf6"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "7.50-4.00",
+        "step": "style"
+      },
+      "sha256": "1de7400e38d7f8072fada672ff9cabc4c56b37dac4710785be554ae712824abc"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "8.00-2.50",
+        "step": "style"
+      },
+      "sha256": "5de3b0769ac4dab157c5367f6de6971e3946940339dea7ad12281b7b9fbd963c"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "8.00-3.00",
+        "step": "style"
+      },
+      "sha256": "0eb068df00cc253e6cebfd98f4f67b7d4a12ae0d19e0a83c3acd1eea367aa849"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "8.00-3.50",
+        "step": "style"
+      },
+      "sha256": "37fbb3fcf33c969489c4dea577267fc9134c6c63d31e6ca53f00b74966befe6c"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "8.00-4.00",
+        "step": "style"
+      },
+      "sha256": "3e6b50b78bc8ec4cd9cdb3af7906f5560ae6fd16672038da344195e13019c665"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "8.50-2.50",
+        "step": "style"
+      },
+      "sha256": "eaace4c477917450e993551310ca3f3bee611adb4f1e06c144954d022947c5c4"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "8.50-3.00",
+        "step": "style"
+      },
+      "sha256": "655ac82a5144760d7e7786d04119f4fae7474371ebabdb7f6d9a9c61576dcfbc"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "8.50-3.50",
+        "step": "style"
+      },
+      "sha256": "1ee48ba668d18d5ec0d4b402ac9a4a60b3e3e2704dacdef7a8e0e68a996e20a7"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "9.00-2.50",
+        "step": "style"
+      },
+      "sha256": "77cdca8ed3624c690529f7c817d1875b28cfc6df4edd8410932aba07e8919e9d"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "9.00-3.00",
+        "step": "style"
+      },
+      "sha256": "3b68c10d31a8a76d491c8bfa32c9b6ebf4140b53e69d850dbdbc242e715a8091"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "9.00-3.50",
+        "step": "style"
+      },
+      "sha256": "444ddc78ec62328ca03cf78dcbf341ab10618dd7e698b99df3ceec83dab30cb2"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "9.50-2.50",
+        "step": "style"
+      },
+      "sha256": "cf173b5fdf7cc0c4a35fbd0497f4e3b01119f0e453819b415963f74999170b86"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "9.50-3.00",
+        "step": "style"
+      },
+      "sha256": "e4afb432dd4a42acb9b2e048815a2d3636160da303df0b23fba86a2c7a9d3119"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "10.00-2.50",
+        "step": "style"
+      },
+      "sha256": "2cab7fc726292ead4fb11fd1c76f29a2301bf61fc3440dd83e4f51055c063bf8"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "size": "10.00-3.00",
+        "step": "style"
+      },
+      "sha256": "510989a224f9ba5b5854f476bf5b9dd878d3463012e57b1cef64b1180db80aa3"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "2.50-2.50",
+        "step": "style"
+      },
+      "sha256": "83d3e4216820c7cce8247242fa211f76b5e9e6bfa4c5fa509b66f9c8c70201a5"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "3.00-2.50",
+        "step": "style"
+      },
+      "sha256": "0dea3c8bd49ab5efb5c60838af75fe0e9c691d4a0852bcece7b3f5b7cf34df29"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "3.00-3.00",
+        "step": "style"
+      },
+      "sha256": "f6e8227cc9325141306dd4b41364bee1480dbd3640f302fa4b56bb599c337790"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "3.00-3.50",
+        "step": "style"
+      },
+      "sha256": "3986d61b1001269c03106fdfb86995b5e3c48ad10db2259a149f13224f58d26b"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "3.00-4.00",
+        "step": "style"
+      },
+      "sha256": "f355e317e547de3df0fb60e9b028c6b378672a1029c38499a594d2091c2da0c5"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "3.00-4.50",
+        "step": "style"
+      },
+      "sha256": "d16229cd6b220697ebc5c343f3f0d5ddbcf37f0bd092e6d44b8921fac28224c1"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "3.00-5.00",
+        "step": "style"
+      },
+      "sha256": "9733218bd1048a2d866b9afdf41b511d556a94a4366100aa60e7f190a9083292"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "3.50-2.50",
+        "step": "style"
+      },
+      "sha256": "0d5ec306b2f74b5c922074f394a08f108308fd131d9d1bdff2628b4592495e03"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "3.50-3.00",
+        "step": "style"
+      },
+      "sha256": "d2f572fce68ce7563e75e9606f5566af8626a5a09847e932a391d1df7739e5c5"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "3.50-3.50",
+        "step": "style"
+      },
+      "sha256": "56cc10139bfcab4bd5e76fb0bffdfd97ed9b7b0840bd803a3c3855c1895a0fc1"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "3.50-4.00",
+        "step": "style"
+      },
+      "sha256": "0e4ffcb8d48ca1438d8f9052d79e3c9f57aa8747c62f9cd51812432efe77b774"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "3.50-4.50",
+        "step": "style"
+      },
+      "sha256": "81bc1f3085cbd8fa1da6e5ed9142b7ec27a0cfefce724f1b99e79b2b6f9ad910"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "3.50-5.00",
+        "step": "style"
+      },
+      "sha256": "f76f75ebbdac9d24c0afce040aa36fdda5a6b8de9e5e5b8bb981530f00cd85ff"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "4.00-2.50",
+        "step": "style"
+      },
+      "sha256": "6a32be7701d7cb9b1134ec8cbb9e54c27b69c8614d5ff1433615555f79df4b18"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "4.00-3.00",
+        "step": "style"
+      },
+      "sha256": "3d6030a759ac3fbe19293c56361c650f783fa744b0d38ff9a7164a342363a18e"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "4.00-3.50",
+        "step": "style"
+      },
+      "sha256": "c95d602400a0f7425d846f8e5349c5778092e95be2ec1643552c4199351a3fed"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "4.00-4.00",
+        "step": "style"
+      },
+      "sha256": "4d29643b375e688fcc343648c1fd4d7f177c9de1385596394f8eef20bfad536e"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "4.00-4.50",
+        "step": "style"
+      },
+      "sha256": "e6f4dfecab1c68e0da9c00ed86d3b868412c53037d9aec3eae944a342b08c56e"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "4.00-5.00",
+        "step": "style"
+      },
+      "sha256": "2a3edb38c15b46f8e2cd2b92d586bab8714d34ef7ea7474020414dc0a34e284e"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "4.50-2.50",
+        "step": "style"
+      },
+      "sha256": "5cae2fb1a7c5033e4baedf5294962d52a65a112ca23f8e178018673793455884"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "4.50-3.00",
+        "step": "style"
+      },
+      "sha256": "f0e73fdf05288150bf8b12d251632b94fd6fb7eae73be5aaa71fa938d002eb71"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "4.50-3.50",
+        "step": "style"
+      },
+      "sha256": "97876125a905787f78d240ce07ea627c9abebf5b475a1aac9c6e33b44f2a1415"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "4.50-4.00",
+        "step": "style"
+      },
+      "sha256": "50c5f0c0effce74bf92ced66324d70e72958858255088a137091c66ada0f8e70"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "4.50-4.50",
+        "step": "style"
+      },
+      "sha256": "0f1387d37601496bf404357b7d46fa08e262a09147c27f6f389a1d34be1ef455"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "4.50-5.00",
+        "step": "style"
+      },
+      "sha256": "3cce3ceea73a8a9d1656dd888ead1658354e40e26c88b0193f8f4361ee9e9d70"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "5.00-2.50",
+        "step": "style"
+      },
+      "sha256": "001a38dab1d70857ef8c6c8a4aa162d589987bf9dc7fb7e9aead2dd50d87483a"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "5.00-3.00",
+        "step": "style"
+      },
+      "sha256": "9a1507717564a6f7ec1c5e15bf36cda6368e8485db582a9f0a3d27c104516837"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "5.00-3.50",
+        "step": "style"
+      },
+      "sha256": "9d7998ce1bf00ae5ae52d932c361e83aec69e788662b11dbdb3492802d24b775"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "5.00-4.00",
+        "step": "style"
+      },
+      "sha256": "6ae7546128764f5a994b6451aadbfd5a27c46774499abb0d9f43ba7edc79fb82"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "5.00-4.50",
+        "step": "style"
+      },
+      "sha256": "04bde69d74a171fabd247328ecc8cd330a2e79d934595f0cd7614279ac4ba67f"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "5.00-5.00",
+        "step": "style"
+      },
+      "sha256": "1003ba01d1c0654c2f6dce33a51c7a88cbede75e5a3337ff4a69b8284b46d378"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "5.50-2.50",
+        "step": "style"
+      },
+      "sha256": "1286f764f3a3447ad51bb7627997c8d9033ade32d2e108131cbb68cd88f21e2a"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "5.50-3.00",
+        "step": "style"
+      },
+      "sha256": "1af5cf077f2a06fc3856b6e67a187099ba99b0dad6cf80b1d43348f3f3808dfb"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "5.50-3.50",
+        "step": "style"
+      },
+      "sha256": "230b601146b87483553a857a8aab106a49919df41239b58f6346427408c4c316"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "5.50-4.00",
+        "step": "style"
+      },
+      "sha256": "bcd998a60302c3d294c2dacf67e54e0d94562b87cea59656d7eba9d8e40e58d1"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "5.50-4.50",
+        "step": "style"
+      },
+      "sha256": "ea3f296ba4112861bd5fafca22afe9e35dbc10397476b9f6d1a2cc02dd2837fe"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "5.50-5.00",
+        "step": "style"
+      },
+      "sha256": "fe6a6c5b2dc66e2c815cbfc4a83177d422a2fbe34747889bbc51b97e744b98b0"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "6.00-2.50",
+        "step": "style"
+      },
+      "sha256": "6043def3b4392a7f08f285d856fea4f0a1d338e5e165c6991cf4584e5442592a"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "6.00-3.00",
+        "step": "style"
+      },
+      "sha256": "ec37775ec6e4dea556e68b5b100e92b97b1b3a4c25162686fea79ce39d4142c3"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "6.00-3.50",
+        "step": "style"
+      },
+      "sha256": "cee4c6a123f8fdf779c0bc007b16adc2d60d08135eb891cee4281ec4b45a84fb"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "6.00-4.00",
+        "step": "style"
+      },
+      "sha256": "de19977175b60afc03a87399218987ef8fc72e5a4a5ef6cfc15918257194d7d5"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "6.00-4.50",
+        "step": "style"
+      },
+      "sha256": "a6a033fe604d6b282b75ca673c6d2e9d461947d092a6529126f214b50fb78017"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "6.00-5.00",
+        "step": "style"
+      },
+      "sha256": "9c316a8969868d774e7912350464ca3404723caecb0ffcdbf91f7e291287534e"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "6.50-2.50",
+        "step": "style"
+      },
+      "sha256": "9fafaa429f2909ce33a22d6c135192c876ec26ee1bec317325edf56b1b49bdad"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "6.50-3.00",
+        "step": "style"
+      },
+      "sha256": "863fc36f48fcddac50f1731160a9945dd3c234840c0624d6a5b875dc31ffab78"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "6.50-3.50",
+        "step": "style"
+      },
+      "sha256": "9389b2598a0946ceb0a1be744ef5cc1d913c95dc95c14e98c405cd48e94ddbb3"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "6.50-4.00",
+        "step": "style"
+      },
+      "sha256": "555a1e1004e00a41c887bfc0e008db883dd73c48c7dbc4c446c9ad71a2dc5d6e"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "6.50-4.50",
+        "step": "style"
+      },
+      "sha256": "47812ddbab0dfc766156426b6a7cfda4622dff9545ece8a4c94579703f1910aa"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "7.00-2.50",
+        "step": "style"
+      },
+      "sha256": "117f4020a733f842f40fed7b9d096bcf24ab45a31db2bb6b27353bca4e9b03d9"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "7.00-3.00",
+        "step": "style"
+      },
+      "sha256": "1035e9f6fc3a006ddbdc8c9fe5151fe4083b8b0ea59da45c90d57a722f4e37a6"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "7.00-3.50",
+        "step": "style"
+      },
+      "sha256": "c93ce68a7978fb6d04d9c5bea79db848d373df1cd6dd7d5b0cb718e1aba8bd58"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "7.00-4.00",
+        "step": "style"
+      },
+      "sha256": "31855d1970b23cae4223f73572a580d7bb2884cb6e868c67164e01d8993a7958"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "7.00-4.50",
+        "step": "style"
+      },
+      "sha256": "f45668beeca45fbdabd1818ee8593797593156b56022911d8834d661006587eb"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "7.50-2.50",
+        "step": "style"
+      },
+      "sha256": "705bc5e1e38fbf2990387717920be045cee7823d46f664c3a8c43e63e8b6be08"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "7.50-3.00",
+        "step": "style"
+      },
+      "sha256": "c344462e33b205969af82faab99f16c2fd197015d2f95e90cc493315af334d87"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "7.50-3.50",
+        "step": "style"
+      },
+      "sha256": "d98add4510070e8c322679f75f39ba8856e299c5fc491552708bd42627e4df3d"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "7.50-4.00",
+        "step": "style"
+      },
+      "sha256": "bd3ea62dedcb19a8d3a0ad69a4eb2227f693606c885cbb499ffda46cc4663ac0"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "8.00-2.50",
+        "step": "style"
+      },
+      "sha256": "e729030026abc04348958609517c209b9b3d7f485a1b50bfc66dc19eef5198b6"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "8.00-3.00",
+        "step": "style"
+      },
+      "sha256": "b0d5980bac7f1bcac00212a9e331a3fbd693ac88ddcfc416072938feb7dd248c"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "8.00-3.50",
+        "step": "style"
+      },
+      "sha256": "a075661154fad47248f82830830e2cae0816697111e334416e759b120ec1aa7b"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "8.00-4.00",
+        "step": "style"
+      },
+      "sha256": "dbfb3fd0dabc8eb6058b074efef297f7e3f6bd2e70b2c45cd36a8ce2548da21c"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "8.50-2.50",
+        "step": "style"
+      },
+      "sha256": "d96da48574053abfdaed8fd6f4a7be620b40b74bbea0ef22303d0af87d17bea0"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "8.50-3.00",
+        "step": "style"
+      },
+      "sha256": "11fe4916111b05448c4317d8bcc88d655f2bbe069c18881d929b41ea64313512"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "8.50-3.50",
+        "step": "style"
+      },
+      "sha256": "729dce63573fdff126994fd547fae18a2608c7e83d1d93bb07b438a624870ca6"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "9.00-2.50",
+        "step": "style"
+      },
+      "sha256": "481a4a57241def8af884b9ae547ecb723e20c884d10e792444b68695f2cedd46"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "9.00-3.00",
+        "step": "style"
+      },
+      "sha256": "58a5525104cc2dd3d8ff9e64acbb56fba26930486f10ad7158d36c76e6890a03"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "9.00-3.50",
+        "step": "style"
+      },
+      "sha256": "f42bd816099015831938c6642d8bec683def07734800067be7dbc6c8220cd4d7"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "9.50-2.50",
+        "step": "style"
+      },
+      "sha256": "d84d958dde969a473b045d5f0c9a4f75ce9b7dce491b75dc9a977c25d6346ca7"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "9.50-3.00",
+        "step": "style"
+      },
+      "sha256": "decf542dd0ce5977af206d8a4650ec840094ffd2a796393fe5cc389bb8b1e6c2"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "10.00-2.50",
+        "step": "style"
+      },
+      "sha256": "066f7b47581d1a3e2e4a4c60bfa5816774c3dbc5dfe54182584aa71b99349b43"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "size": "10.00-3.00",
+        "step": "style"
+      },
+      "sha256": "0798ba76257cf60bccaa7d8b9840a74b69aec0047bc0015210317b932f87191e"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "2.50-2.50",
+        "step": "style"
+      },
+      "sha256": "89c5afeffa978ab2f45be7e6348190b121fd3e4fd6fa89caf1de4b7e2df8a45d"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "3.00-2.50",
+        "step": "style"
+      },
+      "sha256": "06aa8d97bb83911cc2c5a3b000de9c4e36364bbfb826527454d2622593e00a89"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "3.00-3.00",
+        "step": "style"
+      },
+      "sha256": "36ab8c932be503b6d6985d596385c5f4b122f24c01650ca80e65e9e5703a1111"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "3.00-3.50",
+        "step": "style"
+      },
+      "sha256": "08f846b5aae709aacfdda56e60a8bc10c37ff07a8ae9dd43d5d813e20fca38f2"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "3.00-4.00",
+        "step": "style"
+      },
+      "sha256": "e253fcf259dd6286c7308bf349851c04f2c4d02b54976214bcd3c52ee74d057f"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "3.00-4.50",
+        "step": "style"
+      },
+      "sha256": "d0aaea8f24c42def5daf62dae121c514a4339b8cca20a539c325a063dc945943"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "3.00-5.00",
+        "step": "style"
+      },
+      "sha256": "69ee4d54ea5bdb156e5c70423d3ee22f20fdd07dc974c97ba121f077d9755620"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "3.50-2.50",
+        "step": "style"
+      },
+      "sha256": "001c214bf3e5fd1d2ae144ad84734bf5823c9abf2e7a4eeee2bd3ba4a1c1676b"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "3.50-3.00",
+        "step": "style"
+      },
+      "sha256": "3542581bf1a943e0a74edda45974bce650d9a02c6668c520d7846d57a9b24758"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "3.50-3.50",
+        "step": "style"
+      },
+      "sha256": "6f5d948d760da0a03857cc79741fa60535691389447250cd1b3d9b9cf34d64cd"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "3.50-4.00",
+        "step": "style"
+      },
+      "sha256": "99d18d63cd6a9feb82a7a6f25c2a0da56c217e76f9df711a24d2ddf87c1dcd08"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "3.50-4.50",
+        "step": "style"
+      },
+      "sha256": "a6f5931339bd5343b720991bb751fa30ea7ddba943ed0dd9fbed8c4c87793b81"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "3.50-5.00",
+        "step": "style"
+      },
+      "sha256": "bc6f5fd45d55b6b4d725e5868325cb57e92f8eea87b11d5ac42101b9380dfd63"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "4.00-2.50",
+        "step": "style"
+      },
+      "sha256": "baa0f9a0d1896338a4d68257dc0511ee0ba9e4346cf243058ae9f5da22594850"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "4.00-3.00",
+        "step": "style"
+      },
+      "sha256": "37f370126975f2e507ff4d5588622c4d2464ea9c99d82b2be48ad662992ce9f4"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "4.00-3.50",
+        "step": "style"
+      },
+      "sha256": "a2455280f14f9641e13a3bbc97d27690c04b76d15955e25482acde28961a802c"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "4.00-4.00",
+        "step": "style"
+      },
+      "sha256": "ec66277327db7b54cd0b325c9f27beb6191e43f6a1abd196d01225731d70abd1"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "4.00-4.50",
+        "step": "style"
+      },
+      "sha256": "e659e065cd0b93bd8982079aca8d3d8fab20b17e1cb873d182caa7dba174b462"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "4.00-5.00",
+        "step": "style"
+      },
+      "sha256": "aaa867fd6569d123d1dadfa9035f8da8453052bcfe1953e86708bb0739b9030e"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "4.50-2.50",
+        "step": "style"
+      },
+      "sha256": "6215cf95b2ec7e28d0a7e34606b33f449bc7bb832257a2a6e62ba1a18de8f7f8"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "4.50-3.00",
+        "step": "style"
+      },
+      "sha256": "f28a5e74296ba026a2744ec431d8a249025f642c8fe1b36175bb022658d15aff"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "4.50-3.50",
+        "step": "style"
+      },
+      "sha256": "fbe4db94c2f8b8e99b60bebc79d00469dfcb30a28e2847fb75af8b98f99af39d"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "4.50-4.00",
+        "step": "style"
+      },
+      "sha256": "cc3e87f5e22e6d29d1ca25fdb6673e6a2d95e54fdccef4b7072f9cc33727618e"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "4.50-4.50",
+        "step": "style"
+      },
+      "sha256": "56f504e7f6766ac15a73854e696eb0255eaae542b0372dd893b76f36ee632c55"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "4.50-5.00",
+        "step": "style"
+      },
+      "sha256": "875f9d7135874c71f2a58fcdcbc7ceb85f54fdeb4a248fb6a9c98d951fcca266"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "5.00-2.50",
+        "step": "style"
+      },
+      "sha256": "703b51c3b954c0da1b2e1b8e223991202b2d80c2d23abd63b5b2076f58de2b03"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "5.00-3.00",
+        "step": "style"
+      },
+      "sha256": "f40bd10f1677f16f8c1f31c3fdf25d72c98e41e695a841c299dcbac75d6658d7"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "5.00-3.50",
+        "step": "style"
+      },
+      "sha256": "4102ab362b9d57e0685c6e26ad722eb1b279b678c884f0fbbd1b5396213a981d"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "5.00-4.00",
+        "step": "style"
+      },
+      "sha256": "91a974bbceab6959d4b327edb9f3c430f58dfe73e8995cae62879ff330d1252f"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "5.00-4.50",
+        "step": "style"
+      },
+      "sha256": "e4497fb9b56a062a8608379f66bfe6bde6a757c661c03d2120b155a63f48b2a9"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "5.00-5.00",
+        "step": "style"
+      },
+      "sha256": "d7056cf0080ae4456662b1d1579e3541440c749e8bcbcb904f23d34ad8aeb6d8"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "5.50-2.50",
+        "step": "style"
+      },
+      "sha256": "ee35c2d319a6a5e867691d56d7924732ad02c53e93084f1e92f907295967259a"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "5.50-3.00",
+        "step": "style"
+      },
+      "sha256": "57960c59901c52324db3b4edc8b4f71ab92198d0c4ea32a9a648446ef306bb7f"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "5.50-3.50",
+        "step": "style"
+      },
+      "sha256": "1a2a67a00982c76128d7ad0fcdfd09b3a3ef79413f171bfc3ee607021588640b"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "5.50-4.00",
+        "step": "style"
+      },
+      "sha256": "643addc38818fbda657de27f886de57a03f254b37ca2f5ef58b9530d1b280e85"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "5.50-4.50",
+        "step": "style"
+      },
+      "sha256": "af3c32e53f857ae0a9d91e06efea527f156c20c4a064034003812759cc71ad62"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "5.50-5.00",
+        "step": "style"
+      },
+      "sha256": "65a2cbd5682ad68d4109890889da55d681ac01b96fbbba9c02099c91ffb34472"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "6.00-2.50",
+        "step": "style"
+      },
+      "sha256": "61ee82c2c928e1caf59090da1398d33b60dc65a849a4911076940df8665a6899"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "6.00-3.00",
+        "step": "style"
+      },
+      "sha256": "69f9502b46fce4342988f0c17b36bfcb5dcd727d8f15cd2c028284d687fd2dad"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "6.00-3.50",
+        "step": "style"
+      },
+      "sha256": "d6404fe524bd3afc8aa21414343bf67e306d12907437208d6e529633837d9bad"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "6.00-4.00",
+        "step": "style"
+      },
+      "sha256": "5ff105891d0bf3fc46c4ed4bad486d74eb4452cfa3773a8c4dbe45c3986aeb71"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "6.00-4.50",
+        "step": "style"
+      },
+      "sha256": "e232d2fe492e48b5b0f520c1994418fe01e8c07a5c09f40f6266e89e4c47c809"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "6.00-5.00",
+        "step": "style"
+      },
+      "sha256": "d2bc62b26194973c2919d0e9c55a220c57a784215efa470bc912c6f7ba2cf999"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "6.50-2.50",
+        "step": "style"
+      },
+      "sha256": "0625851b89ac7234aa440ed3864fe079db1fc285f5348d94e3477883b957d55a"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "6.50-3.00",
+        "step": "style"
+      },
+      "sha256": "bf5979861928f814b30f2d7f3a61d3231207ddc1a70a40e6e580c617eada5059"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "6.50-3.50",
+        "step": "style"
+      },
+      "sha256": "f86f5e2c67040663d7fa41600213cf448485536cd2d122a4050f45344c555446"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "6.50-4.00",
+        "step": "style"
+      },
+      "sha256": "517ed032a1fb032c376191565112172d47e5c57f5d5d1de254569a606859c31d"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "6.50-4.50",
+        "step": "style"
+      },
+      "sha256": "8c575fbae9140bb896f32544b373d09d1f1dd3acdfac0034ede747e4525b04b9"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "7.00-2.50",
+        "step": "style"
+      },
+      "sha256": "1ccd935c19c6a474d15bf814059b7cdb268911930eb6ed0dbb751a1d23dcc3df"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "7.00-3.00",
+        "step": "style"
+      },
+      "sha256": "a1b511e3d9bd17302f6e05462a357457046c7951d7e72af1a224c22a97ae8dbe"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "7.00-3.50",
+        "step": "style"
+      },
+      "sha256": "73653a1317540ccde107bc5201cf48fd94c40c91c3097300ecf733d0d1e6e99e"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "7.00-4.00",
+        "step": "style"
+      },
+      "sha256": "1c763bdd9de77f4b6457c19eeb41ae811a3d854fe2c2e6c2cb8c0faf9f7f66b3"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "7.00-4.50",
+        "step": "style"
+      },
+      "sha256": "e489a67f9f3767708470fc3f1e6d0d1ffe2bc041d67ef30a7b4ea65ece0332c1"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "7.50-2.50",
+        "step": "style"
+      },
+      "sha256": "c63af84fde350243880169308f8ea7ce0c10c802c92776c14330a7d722ea3ae3"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "7.50-3.00",
+        "step": "style"
+      },
+      "sha256": "6c0c1d8f6643d117e7007d986a9c2f0e105fd1415324711b3c91e10b6e8d14ab"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "7.50-3.50",
+        "step": "style"
+      },
+      "sha256": "08856a204be74d2ed87e7f6ed23e61ffce03813c7952fab5f5bcc31de87c28da"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "7.50-4.00",
+        "step": "style"
+      },
+      "sha256": "330a55f267baa800a159793b8b1427e7bd9f419ea72ff728222959881891a6ad"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "8.00-2.50",
+        "step": "style"
+      },
+      "sha256": "ced746fc84e72ca26cdf004b954ebd171c1918da1d5374dff4b47110144f466c"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "8.00-3.00",
+        "step": "style"
+      },
+      "sha256": "06a93336f784b1c18489c317a6e8719ea842d665c17bdafaf8facafdd370dd8e"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "8.00-3.50",
+        "step": "style"
+      },
+      "sha256": "d6d927149dea71f8bef7a6a2d1615db268a4f07eff0ebfa3152ffda76586c776"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "8.00-4.00",
+        "step": "style"
+      },
+      "sha256": "56219b77c59b1467d38b64922582aeb0216687391399b39781fc395166f7cfee"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "8.50-2.50",
+        "step": "style"
+      },
+      "sha256": "c57fcd7f6908099113f90c4ddfb800c182bb3990fc61027237cbf3260c796286"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "8.50-3.00",
+        "step": "style"
+      },
+      "sha256": "7cbaca2d55f1de64d352a1fba0a8e263d1d30f3ceda596ce60bf93bec0e151a6"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "8.50-3.50",
+        "step": "style"
+      },
+      "sha256": "bf3d8ce4d0eb865018acacc21364e76737f83fb7343e7436f3c1b89d9b9bed72"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "9.00-2.50",
+        "step": "style"
+      },
+      "sha256": "faa26f479120f8f7d6a84aa3540c72464e78919614694d7020844bff27689ba2"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "9.00-3.00",
+        "step": "style"
+      },
+      "sha256": "59e5a75845d6557c5a76124ca7af3dfee15348115ae946935acd0382bbc1e4ea"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "9.00-3.50",
+        "step": "style"
+      },
+      "sha256": "1c98497e3f68da49d09d88955a80182ad858ae25ec751d78dce3f65a5ff9b4a6"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "9.50-2.50",
+        "step": "style"
+      },
+      "sha256": "69f75260d3b81739caccf9759d1b45623a799010280ee02e3e34510eae609fbd"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "9.50-3.00",
+        "step": "style"
+      },
+      "sha256": "0dbb0c81bc64ac199ac15371f5034c460016e0c9b5e585180548e02a9be93624"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "10.00-2.50",
+        "step": "style"
+      },
+      "sha256": "3b21383336e2054a08385bbbe4df5d872e436eaaaae5d09c749fa32e6cb0c770"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "size": "10.00-3.00",
+        "step": "style"
+      },
+      "sha256": "822b2d8bc1d585e29923565d544acc5e62fb4df5807f792a20cf7fe1f9efb468"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "2.50-2.50",
+        "step": "style"
+      },
+      "sha256": "d27ef379556e9a70ff3d883072ef6b25b8e8f463b5254e55d2d4c0fa56176049"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "3.00-2.50",
+        "step": "style"
+      },
+      "sha256": "2a33d194c0ec9c2f375a2326c108a6c76769307a87c462c804a6426305fe330d"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "3.00-3.00",
+        "step": "style"
+      },
+      "sha256": "8720f0e1b12d920e92377ce1f757314ca8147b66bc1e07209a37b23f094e5e53"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "3.00-3.50",
+        "step": "style"
+      },
+      "sha256": "f2e25210990756c644c812c095403802588bb429333de2d212069e46e3d87aa2"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "3.00-4.00",
+        "step": "style"
+      },
+      "sha256": "8cd10af3a4cfcfe58327d560af895b85645032a7abaa9fd91d749f38c07d730a"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "3.00-4.50",
+        "step": "style"
+      },
+      "sha256": "5bb970086213bd3b55a25b11e2e764ad6cdc787875dc10ab24f546dcc45d1869"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "3.00-5.00",
+        "step": "style"
+      },
+      "sha256": "8ef64a6bb66f9b5dac62c2bbef3cb38a2c3fd8bf319516cc24033b76e97f76cd"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "3.50-2.50",
+        "step": "style"
+      },
+      "sha256": "a1dde265e79ddd6dde7de262768dd79ac8febff7ddea0b705dab1fed16ce9ca6"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "3.50-3.00",
+        "step": "style"
+      },
+      "sha256": "62c7e654e7ac0d995a6b7559114a21c7146001e389ffd8e3763140831e5899bd"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "3.50-3.50",
+        "step": "style"
+      },
+      "sha256": "f400af1f62034a38054c6007895ea9a9870426266463c2a58cbe2f10e712cb1c"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "3.50-4.00",
+        "step": "style"
+      },
+      "sha256": "8817999a97c0563b414f49842d809e1d73927efca227c5effa19a5fe459f96bc"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "3.50-4.50",
+        "step": "style"
+      },
+      "sha256": "99ef3561e3da620451a9ed8ee593c92d900c3844acdace9528e17218d968a8b9"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "3.50-5.00",
+        "step": "style"
+      },
+      "sha256": "9f5e7ea6f3346d3eb1ea2f9d9e2adf320072903e005d9083f4988a75ba21109b"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "4.00-2.50",
+        "step": "style"
+      },
+      "sha256": "045223b43cd3f2b69d8b3eb52a70e14819f364bd01fee1aebe730283582fbf90"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "4.00-3.00",
+        "step": "style"
+      },
+      "sha256": "81e04978ce2a88f75b152868344aa12ec5a5328e3e5a487b0eefe41b4ae99545"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "4.00-3.50",
+        "step": "style"
+      },
+      "sha256": "b9f586ebe400b9ba266bf089bf68b6f34343a26b96b3b498774b678213baf178"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "4.00-4.00",
+        "step": "style"
+      },
+      "sha256": "8c29c891687ae57042d5dcabb00956a05b49a4b4418e8fd6926f7e6e44934225"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "4.00-4.50",
+        "step": "style"
+      },
+      "sha256": "953df6f52528545c24551f3af45a4e0f1594bf5dcca2db2955bafc9eea5607d0"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "4.00-5.00",
+        "step": "style"
+      },
+      "sha256": "2fb6f3b108152bc6ae05e326443643ad159bc31584de34d52608c101e3e92700"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "4.50-2.50",
+        "step": "style"
+      },
+      "sha256": "2aa43b336bf28d69e0ae668d6d618386f3e96d4226e4adf8a98060e87a4d46da"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "4.50-3.00",
+        "step": "style"
+      },
+      "sha256": "542b8406832ceb483dfa4e13e21410dd9ce179caafee48e620034f1647b7b337"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "4.50-3.50",
+        "step": "style"
+      },
+      "sha256": "39722fb4eb1be902eb19b08780c6ed87add53fbd1260d88b8d772e6f00863c58"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "4.50-4.00",
+        "step": "style"
+      },
+      "sha256": "5a1c258f79b93cb5c903b1d19af93659346150e0622fb59efe1832142d355939"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "4.50-4.50",
+        "step": "style"
+      },
+      "sha256": "919598ff03a3267ed015355b0ef3f537fe77e9ac5d90cc02ca608ebb6286730b"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "4.50-5.00",
+        "step": "style"
+      },
+      "sha256": "297442763cbbacbd223c541d7e5d00380dbf65610f9aa4bd85d25341f4577311"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "5.00-2.50",
+        "step": "style"
+      },
+      "sha256": "3d9fb3ce583a5873b1181fa3f40e8d7760ac58a8b74cfa12f186dc3f6d8d05bd"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "5.00-3.00",
+        "step": "style"
+      },
+      "sha256": "3e09480da3cb74bdc8a7c246f243dc787de8b98fed0de4f049fe17dd81df56ac"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "5.00-3.50",
+        "step": "style"
+      },
+      "sha256": "7f84e9d4b698a1a87e8b8dff79ddb80aa9e5b4cd551e15f50743d4069cc39984"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "5.00-4.00",
+        "step": "style"
+      },
+      "sha256": "9a8d117368627d7f6995a7f96d2b0f254c8184e52a5ac15834b7ca19c47eb1d5"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "5.00-4.50",
+        "step": "style"
+      },
+      "sha256": "59f5c79a573b7b4adf9cca318fbacffc4024ee0484b166c763377083066eabc5"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "5.00-5.00",
+        "step": "style"
+      },
+      "sha256": "d84cea62ba87ae9b4e0222a022a9a1bea6b3f65009653477fabc755deb8a0a50"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "5.50-2.50",
+        "step": "style"
+      },
+      "sha256": "67996428198d4c01bffa4b51f676e17ea87fee6558a27cac29757b19a42e136f"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "5.50-3.00",
+        "step": "style"
+      },
+      "sha256": "0e8943057c1c6e910084642d618d55e44c5ac5feef6d3c2c1a9536e3d97dd711"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "5.50-3.50",
+        "step": "style"
+      },
+      "sha256": "cb56c2fbbb156a220bfe5087b0fccd46d0dcb1afe9b8a874132e677892670e32"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "5.50-4.00",
+        "step": "style"
+      },
+      "sha256": "d45e24f739d7be7a207b62667cac8ab3ab40d8d5159434fb7993a361db0c4f44"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "5.50-4.50",
+        "step": "style"
+      },
+      "sha256": "15f3ec2d5803f7c5ecea757b67adb37ff8342d41860c463331325510e4c1c013"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "5.50-5.00",
+        "step": "style"
+      },
+      "sha256": "0319b0e7d8c76677777932cab3a9b8883bd3f4794a0d9cc28eb032c783b28500"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "6.00-2.50",
+        "step": "style"
+      },
+      "sha256": "2e8010ba65f364b503faa86038df08b982cb2eae5ab07de295657c56e0f8a1b2"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "6.00-3.00",
+        "step": "style"
+      },
+      "sha256": "0908fbfa66e13730a3f6f4907fb2e992e5bdbb7d5f391cfa397da17a6e680a72"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "6.00-3.50",
+        "step": "style"
+      },
+      "sha256": "947258630db35d681b619cf307b2cac117b5d73d74f699f294603ab2b2e0241b"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "6.00-4.00",
+        "step": "style"
+      },
+      "sha256": "9eb57e4d9c578be9c2cb0b04e9d7f6a705334381a9edf06ff9e1f2e5902fa063"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "6.00-4.50",
+        "step": "style"
+      },
+      "sha256": "a79f02461911497a0438eca14b994ce3289af8216a57f104dfb189e758d6e225"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "6.00-5.00",
+        "step": "style"
+      },
+      "sha256": "c3d8ad40f1da5c8c004a43f0f8bbd2bc0e81cc79f990ec593492a03a2cc444e4"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "6.50-2.50",
+        "step": "style"
+      },
+      "sha256": "4384d9b11ccafa6d6b096b43ba3c5caf4c56dda1912a8236dd9a8520c403b8a9"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "6.50-3.00",
+        "step": "style"
+      },
+      "sha256": "3aa61032e704c645fb7c70175017461a51bb7e27647b981e62c94b0d49df3d70"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "6.50-3.50",
+        "step": "style"
+      },
+      "sha256": "2ba57ddf365efcbbc4b9baa72cfb6bbdea27d616d5e8fb5d5b39b9823788ea15"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "6.50-4.00",
+        "step": "style"
+      },
+      "sha256": "51fddb7984827e930ff84dc8315b57e7539dfbd8abf7744a456646460683a907"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "6.50-4.50",
+        "step": "style"
+      },
+      "sha256": "ba41ce72dd871820cc8190ed524614e8cd336d684d7988cc25e724c8a4fac5a8"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "7.00-2.50",
+        "step": "style"
+      },
+      "sha256": "d7dd916f60a355a1be5c00c5bf03afdb8e7e033e1ea420428e04b669a046e6a4"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "7.00-3.00",
+        "step": "style"
+      },
+      "sha256": "3b10a0df6498fb3455d4e63e53ff9cf27d4ecb3f4be484f17bcf5d01d6ce0c43"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "7.00-3.50",
+        "step": "style"
+      },
+      "sha256": "3bee3288889a6ecd7b31bf7af0507ab38fe999254aba2a32e766fa58fb33e9ca"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "7.00-4.00",
+        "step": "style"
+      },
+      "sha256": "6dfad6650321a835213a2ca99ff3c401756b490341d352562f484fc1ee66d687"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "7.00-4.50",
+        "step": "style"
+      },
+      "sha256": "b5001e584356007182c856451484decbcb40af0514bca5e9427f08db103b7180"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "7.50-2.50",
+        "step": "style"
+      },
+      "sha256": "6df0dc4d6bae63cdd8eafeb51a0d1db27f9db4915e964186efa0dc190797e104"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "7.50-3.00",
+        "step": "style"
+      },
+      "sha256": "2c06be7d10cdb91c455d772dd915ebab5a1da1e231d4295ff7706242c1d5543f"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "7.50-3.50",
+        "step": "style"
+      },
+      "sha256": "7ab1f50fce3dfc85038b39ad2717e834295def23e8133b9416782e8cf27d953f"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "7.50-4.00",
+        "step": "style"
+      },
+      "sha256": "0b181c9987e893f2306d336bfcea722fc4caceae7ec78b203289d5eceacb6611"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "8.00-2.50",
+        "step": "style"
+      },
+      "sha256": "7355589dfda1939b080fa531af09d3b388e2a673bd93b763102018883e7a5c72"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "8.00-3.00",
+        "step": "style"
+      },
+      "sha256": "0ec7e2ddd1d718d237e02b67b9284e541c4d3391cd62e7a7df01bf062f55466c"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "8.00-3.50",
+        "step": "style"
+      },
+      "sha256": "ffc01ebc5879d1f728f561a6b83281614d8e01d8506801c05ebbc0eeb1cab256"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "8.00-4.00",
+        "step": "style"
+      },
+      "sha256": "87f301505c10f3aa8a388211b499f91ed37a515d5d8dc20c462892865fbda3eb"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "8.50-2.50",
+        "step": "style"
+      },
+      "sha256": "b4202976a2e120c98fe50cbdd4ab1d18919831d7adffccf47970161c76c490d1"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "8.50-3.00",
+        "step": "style"
+      },
+      "sha256": "4c3c39a698b224dbba1786159f751da128668126fe5d3a16f2d77bee5434e026"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "8.50-3.50",
+        "step": "style"
+      },
+      "sha256": "32ee6efdcfaaf459c3533f13e14304777e991eb83e50a30d0855df258fc49306"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "9.00-2.50",
+        "step": "style"
+      },
+      "sha256": "ff9bf789c01eac9e4b986ada0e3555aca16295e8595e80def19a9fff93dddcf8"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "9.00-3.00",
+        "step": "style"
+      },
+      "sha256": "ef6c9bb3642316307b394721d6b951334105f2fb5abdae0ae13e06337ff65c03"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "9.00-3.50",
+        "step": "style"
+      },
+      "sha256": "339d943ffa65c9006c475def47151971253e790ae9ae35a3c4f651c6f128f5b9"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "9.50-2.50",
+        "step": "style"
+      },
+      "sha256": "abc7c3fdfc698068c24f8acf6eb9dd33cc6c7f1f7dd936cee0f134a8011239e4"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "9.50-3.00",
+        "step": "style"
+      },
+      "sha256": "a01a59ea2cc67447ea12508ebaa2ffefc3e11a666a0a3a035c0dfcdd0eb3edcb"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "10.00-2.50",
+        "step": "style"
+      },
+      "sha256": "b0ce0a306db8ecb41ce79a73eb285d266c29ccfd0bb69ba5f463a64e0580d4c2"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "size": "10.00-3.00",
+        "step": "style"
+      },
+      "sha256": "c6968e63cc92fa1f83cf0f915e5d948f118e6443bcd423403471497f4c4141b9"
+    }
+  ],
+  "sizeResponses": [
+    {
+      "payload": {
+        "shape": "Cube",
+        "step": "size"
+      },
+      "file": "cube-sizes.html",
+      "sha256": "3c119ccb48e5d608963ae86510ac423f7b5fc90133816ffb4b27bc360d6b5058"
+    },
+    {
+      "payload": {
+        "shape": "Canopy",
+        "step": "size"
+      },
+      "file": "canopy-sizes.html",
+      "sha256": "b22fd768845aeaa371e7734333484b970d27d4811e0626a22296f00546136798"
+    },
+    {
+      "payload": {
+        "shape": "Corner",
+        "step": "size"
+      },
+      "file": "corner-sizes.html",
+      "sha256": "52057bfa8f1c65e53994404a612851cdd139650873b6fc412d4576b707804a4e"
+    },
+    {
+      "payload": {
+        "shape": "Concave",
+        "step": "size"
+      },
+      "file": "concave-sizes.html",
+      "sha256": "5fa85abd1e5cca0d97d17a5131a1b4ee15ef5900d0fc6817cff32baaaaa26f8a"
+    },
+    {
+      "payload": {
+        "shape": "Canopy Corner",
+        "step": "size"
+      },
+      "file": "canopy-corner-sizes.html",
+      "sha256": "8f46e74960a9d3bf460bcefe4a0440b860938a939d1d10a629e327124e99e158"
+    }
+  ]
+}

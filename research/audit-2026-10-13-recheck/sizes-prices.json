@@ -1,0 +1,1790 @@
+{
+  "verifiedAt": "2026-10-13T13:09:37.264217+00:00",
+  "catalogue": {
+    "cube": [
+      {
+        "width": 2.5,
+        "depth": 2.5,
+        "price": 16524
+      },
+      {
+        "width": 3.0,
+        "depth": 2.5,
+        "price": 17322
+      },
+      {
+        "width": 3.0,
+        "depth": 3.0,
+        "price": 18462
+      },
+      {
+        "width": 3.0,
+        "depth": 3.5,
+        "price": 19146
+      },
+      {
+        "width": 3.0,
+        "depth": 4.0,
+        "price": 19944
+      },
+      {
+        "width": 3.0,
+        "depth": 4.5,
+        "price": 20856
+      },
+      {
+        "width": 3.0,
+        "depth": 5.0,
+        "price": 21654
+      },
+      {
+        "width": 3.5,
+        "depth": 2.5,
+        "price": 18234
+      },
+      {
+        "width": 3.5,
+        "depth": 3.0,
+        "price": 19146
+      },
+      {
+        "width": 3.5,
+        "depth": 3.5,
+        "price": 20058
+      },
+      {
+        "width": 3.5,
+        "depth": 4.0,
+        "price": 20970
+      },
+      {
+        "width": 3.5,
+        "depth": 4.5,
+        "price": 22224
+      },
+      {
+        "width": 3.5,
+        "depth": 5.0,
+        "price": 23478
+      },
+      {
+        "width": 4.0,
+        "depth": 2.5,
+        "price": 19146
+      },
+      {
+        "width": 4.0,
+        "depth": 3.0,
+        "price": 20058
+      },
+      {
+        "width": 4.0,
+        "depth": 3.5,
+        "price": 21084
+      },
+      {
+        "width": 4.0,
+        "depth": 4.0,
+        "price": 22680
+      },
+      {
+        "width": 4.0,
+        "depth": 4.5,
+        "price": 23934
+      },
+      {
+        "width": 4.0,
+        "depth": 5.0,
+        "price": 25188
+      },
+      {
+        "width": 4.5,
+        "depth": 2.5,
+        "price": 19716
+      },
+      {
+        "width": 4.5,
+        "depth": 3.0,
+        "price": 20970
+      },
+      {
+        "width": 4.5,
+        "depth": 3.5,
+        "price": 22338
+      },
+      {
+        "width": 4.5,
+        "depth": 4.0,
+        "price": 23934
+      },
+      {
+        "width": 4.5,
+        "depth": 4.5,
+        "price": 25644
+      },
+      {
+        "width": 4.5,
+        "depth": 5.0,
+        "price": 26898
+      },
+      {
+        "width": 5.0,
+        "depth": 2.5,
+        "price": 20514
+      },
+      {
+        "width": 5.0,
+        "depth": 3.0,
+        "price": 21882
+      },
+      {
+        "width": 5.0,
+        "depth": 3.5,
+        "price": 23592
+      },
+      {
+        "width": 5.0,
+        "depth": 4.0,
+        "price": 25302
+      },
+      {
+        "width": 5.0,
+        "depth": 4.5,
+        "price": 27012
+      },
+      {
+        "width": 5.0,
+        "depth": 5.0,
+        "price": 28722
+      },
+      {
+        "width": 5.5,
+        "depth": 2.5,
+        "price": 21426
+      },
+      {
+        "width": 5.5,
+        "depth": 3.0,
+        "price": 23136
+      },
+      {
+        "width": 5.5,
+        "depth": 3.5,
+        "price": 24846
+      },
+      {
+        "width": 5.5,
+        "depth": 4.0,
+        "price": 26898
+      },
+      {
+        "width": 5.5,
+        "depth": 4.5,
+        "price": 28380
+      },
+      {
+        "width": 5.5,
+        "depth": 5.0,
+        "price": 30432
+      },
+      {
+        "width": 6.0,
+        "depth": 2.5,
+        "price": 21996
+      },
+      {
+        "width": 6.0,
+        "depth": 3.0,
+        "price": 24390
+      },
+      {
+        "width": 6.0,
+        "depth": 3.5,
+        "price": 26442
+      },
+      {
+        "width": 6.0,
+        "depth": 4.0,
+        "price": 27924
+      },
+      {
+        "width": 6.0,
+        "depth": 4.5,
+        "price": 30090
+      },
+      {
+        "width": 6.0,
+        "depth": 5.0,
+        "price": 32712
+      },
+      {
+        "width": 6.5,
+        "depth": 2.5,
+        "price": 23478
+      },
+      {
+        "width": 6.5,
+        "depth": 3.0,
+        "price": 25302
+      },
+      {
+        "width": 6.5,
+        "depth": 3.5,
+        "price": 27468
+      },
+      {
+        "width": 6.5,
+        "depth": 4.0,
+        "price": 29634
+      },
+      {
+        "width": 6.5,
+        "depth": 4.5,
+        "price": 31800
+      },
+      {
+        "width": 7.0,
+        "depth": 2.5,
+        "price": 24390
+      },
+      {
+        "width": 7.0,
+        "depth": 3.0,
+        "price": 26898
+      },
+      {
+        "width": 7.0,
+        "depth": 3.5,
+        "price": 28722
+      },
+      {
+        "width": 7.0,
+        "depth": 4.0,
+        "price": 31230
+      },
+      {
+        "width": 7.0,
+        "depth": 4.5,
+        "price": 33396
+      },
+      {
+        "width": 7.5,
+        "depth": 2.5,
+        "price": 25188
+      },
+      {
+        "width": 7.5,
+        "depth": 3.0,
+        "price": 27810
+      },
+      {
+        "width": 7.5,
+        "depth": 3.5,
+        "price": 29976
+      },
+      {
+        "width": 7.5,
+        "depth": 4.0,
+        "price": 32598
+      },
+      {
+        "width": 8.0,
+        "depth": 2.5,
+        "price": 26100
+      },
+      {
+        "width": 8.0,
+        "depth": 3.0,
+        "price": 28722
+      },
+      {
+        "width": 8.0,
+        "depth": 3.5,
+        "price": 31116
+      },
+      {
+        "width": 8.0,
+        "depth": 4.0,
+        "price": 34536
+      },
+      {
+        "width": 8.5,
+        "depth": 2.5,
+        "price": 27582
+      },
+      {
+        "width": 8.5,
+        "depth": 3.0,
+        "price": 29976
+      },
+      {
+        "width": 8.5,
+        "depth": 3.5,
+        "price": 32598
+      },
+      {
+        "width": 9.0,
+        "depth": 2.5,
+        "price": 28494
+      },
+      {
+        "width": 9.0,
+        "depth": 3.0,
+        "price": 31116
+      },
+      {
+        "width": 9.0,
+        "depth": 3.5,
+        "price": 34194
+      },
+      {
+        "width": 9.5,
+        "depth": 2.5,
+        "price": 29064
+      },
+      {
+        "width": 9.5,
+        "depth": 3.0,
+        "price": 32370
+      },
+      {
+        "width": 10.0,
+        "depth": 2.5,
+        "price": 30204
+      },
+      {
+        "width": 10.0,
+        "depth": 3.0,
+        "price": 33624
+      }
+    ],
+    "canopy": [
+      {
+        "width": 2.5,
+        "depth": 2.5,
+        "price": 17208
+      },
+      {
+        "width": 3.0,
+        "depth": 2.5,
+        "price": 18063
+      },
+      {
+        "width": 3.0,
+        "depth": 3.0,
+        "price": 19203
+      },
+      {
+        "width": 3.0,
+        "depth": 3.5,
+        "price": 19887
+      },
+      {
+        "width": 3.0,
+        "depth": 4.0,
+        "price": 20685
+      },
+      {
+        "width": 3.0,
+        "depth": 4.5,
+        "price": 21597
+      },
+      {
+        "width": 3.0,
+        "depth": 5.0,
+        "price": 22395
+      },
+      {
+        "width": 3.5,
+        "depth": 2.5,
+        "price": 19032
+      },
+      {
+        "width": 3.5,
+        "depth": 3.0,
+        "price": 19944
+      },
+      {
+        "width": 3.5,
+        "depth": 3.5,
+        "price": 20856
+      },
+      {
+        "width": 3.5,
+        "depth": 4.0,
+        "price": 21768
+      },
+      {
+        "width": 3.5,
+        "depth": 4.5,
+        "price": 23022
+      },
+      {
+        "width": 3.5,
+        "depth": 5.0,
+        "price": 24276
+      },
+      {
+        "width": 4.0,
+        "depth": 2.5,
+        "price": 20001
+      },
+      {
+        "width": 4.0,
+        "depth": 3.0,
+        "price": 20913
+      },
+      {
+        "width": 4.0,
+        "depth": 3.5,
+        "price": 21939
+      },
+      {
+        "width": 4.0,
+        "depth": 4.0,
+        "price": 23535
+      },
+      {
+        "width": 4.0,
+        "depth": 4.5,
+        "price": 24789
+      },
+      {
+        "width": 4.0,
+        "depth": 5.0,
+        "price": 26043
+      },
+      {
+        "width": 4.5,
+        "depth": 2.5,
+        "price": 20628
+      },
+      {
+        "width": 4.5,
+        "depth": 3.0,
+        "price": 21882
+      },
+      {
+        "width": 4.5,
+        "depth": 3.5,
+        "price": 23250
+      },
+      {
+        "width": 4.5,
+        "depth": 4.0,
+        "price": 24846
+      },
+      {
+        "width": 4.5,
+        "depth": 4.5,
+        "price": 26556
+      },
+      {
+        "width": 4.5,
+        "depth": 5.0,
+        "price": 27810
+      },
+      {
+        "width": 5.0,
+        "depth": 2.5,
+        "price": 21483
+      },
+      {
+        "width": 5.0,
+        "depth": 3.0,
+        "price": 22851
+      },
+      {
+        "width": 5.0,
+        "depth": 3.5,
+        "price": 24561
+      },
+      {
+        "width": 5.0,
+        "depth": 4.0,
+        "price": 26271
+      },
+      {
+        "width": 5.0,
+        "depth": 4.5,
+        "price": 27981
+      },
+      {
+        "width": 5.0,
+        "depth": 5.0,
+        "price": 29691
+      },
+      {
+        "width": 5.5,
+        "depth": 2.5,
+        "price": 22452
+      },
+      {
+        "width": 5.5,
+        "depth": 3.0,
+        "price": 24162
+      },
+      {
+        "width": 5.5,
+        "depth": 3.5,
+        "price": 25872
+      },
+      {
+        "width": 5.5,
+        "depth": 4.0,
+        "price": 27924
+      },
+      {
+        "width": 5.5,
+        "depth": 4.5,
+        "price": 29406
+      },
+      {
+        "width": 5.5,
+        "depth": 5.0,
+        "price": 31458
+      },
+      {
+        "width": 6.0,
+        "depth": 2.5,
+        "price": 23079
+      },
+      {
+        "width": 6.0,
+        "depth": 3.0,
+        "price": 25473
+      },
+      {
+        "width": 6.0,
+        "depth": 3.5,
+        "price": 27525
+      },
+      {
+        "width": 6.0,
+        "depth": 4.0,
+        "price": 29007
+      },
+      {
+        "width": 6.0,
+        "depth": 4.5,
+        "price": 31173
+      },
+      {
+        "width": 6.0,
+        "depth": 5.0,
+        "price": 33795
+      },
+      {
+        "width": 6.5,
+        "depth": 2.5,
+        "price": 24618
+      },
+      {
+        "width": 6.5,
+        "depth": 3.0,
+        "price": 26442
+      },
+      {
+        "width": 6.5,
+        "depth": 3.5,
+        "price": 28608
+      },
+      {
+        "width": 6.5,
+        "depth": 4.0,
+        "price": 30774
+      },
+      {
+        "width": 6.5,
+        "depth": 4.5,
+        "price": 32940
+      },
+      {
+        "width": 7.0,
+        "depth": 2.5,
+        "price": 25587
+      },
+      {
+        "width": 7.0,
+        "depth": 3.0,
+        "price": 28095
+      },
+      {
+        "width": 7.0,
+        "depth": 3.5,
+        "price": 29919
+      },
+      {
+        "width": 7.0,
+        "depth": 4.0,
+        "price": 32427
+      },
+      {
+        "width": 7.0,
+        "depth": 4.5,
+        "price": 34593
+      },
+      {
+        "width": 7.5,
+        "depth": 2.5,
+        "price": 26442
+      },
+      {
+        "width": 7.5,
+        "depth": 3.0,
+        "price": 29064
+      },
+      {
+        "width": 7.5,
+        "depth": 3.5,
+        "price": 31230
+      },
+      {
+        "width": 7.5,
+        "depth": 4.0,
+        "price": 33852
+      },
+      {
+        "width": 8.0,
+        "depth": 2.5,
+        "price": 27411
+      },
+      {
+        "width": 8.0,
+        "depth": 3.0,
+        "price": 30033
+      },
+      {
+        "width": 8.0,
+        "depth": 3.5,
+        "price": 32427
+      },
+      {
+        "width": 8.0,
+        "depth": 4.0,
+        "price": 35847
+      },
+      {
+        "width": 8.5,
+        "depth": 2.5,
+        "price": 28950
+      },
+      {
+        "width": 8.5,
+        "depth": 3.0,
+        "price": 31344
+      },
+      {
+        "width": 8.5,
+        "depth": 3.5,
+        "price": 33966
+      },
+      {
+        "width": 9.0,
+        "depth": 2.5,
+        "price": 29919
+      },
+      {
+        "width": 9.0,
+        "depth": 3.0,
+        "price": 32541
+      },
+      {
+        "width": 9.0,
+        "depth": 3.5,
+        "price": 35619
+      },
+      {
+        "width": 9.5,
+        "depth": 2.5,
+        "price": 30546
+      },
+      {
+        "width": 9.5,
+        "depth": 3.0,
+        "price": 33852
+      },
+      {
+        "width": 10.0,
+        "depth": 2.5,
+        "price": 31743
+      },
+      {
+        "width": 10.0,
+        "depth": 3.0,
+        "price": 35163
+      }
+    ],
+    "corner": [
+      {
+        "width": 2.5,
+        "depth": 2.5,
+        "price": 17322
+      },
+      {
+        "width": 3.0,
+        "depth": 2.5,
+        "price": 18120
+      },
+      {
+        "width": 3.0,
+        "depth": 3.0,
+        "price": 19260
+      },
+      {
+        "width": 3.0,
+        "depth": 3.5,
+        "price": 19944
+      },
+      {
+        "width": 3.0,
+        "depth": 4.0,
+        "price": 20742
+      },
+      {
+        "width": 3.0,
+        "depth": 4.5,
+        "price": 21654
+      },
+      {
+        "width": 3.0,
+        "depth": 5.0,
+        "price": 22452
+      },
+      {
+        "width": 3.5,
+        "depth": 2.5,
+        "price": 19032
+      },
+      {
+        "width": 3.5,
+        "depth": 3.0,
+        "price": 19944
+      },
+      {
+        "width": 3.5,
+        "depth": 3.5,
+        "price": 20856
+      },
+      {
+        "width": 3.5,
+        "depth": 4.0,
+        "price": 21768
+      },
+      {
+        "width": 3.5,
+        "depth": 4.5,
+        "price": 23022
+      },
+      {
+        "width": 3.5,
+        "depth": 5.0,
+        "price": 24276
+      },
+      {
+        "width": 4.0,
+        "depth": 2.5,
+        "price": 19944
+      },
+      {
+        "width": 4.0,
+        "depth": 3.0,
+        "price": 20856
+      },
+      {
+        "width": 4.0,
+        "depth": 3.5,
+        "price": 21882
+      },
+      {
+        "width": 4.0,
+        "depth": 4.0,
+        "price": 23478
+      },
+      {
+        "width": 4.0,
+        "depth": 4.5,
+        "price": 24732
+      },
+      {
+        "width": 4.0,
+        "depth": 5.0,
+        "price": 25986
+      },
+      {
+        "width": 4.5,
+        "depth": 2.5,
+        "price": 20514
+      },
+      {
+        "width": 4.5,
+        "depth": 3.0,
+        "price": 21768
+      },
+      {
+        "width": 4.5,
+        "depth": 3.5,
+        "price": 23136
+      },
+      {
+        "width": 4.5,
+        "depth": 4.0,
+        "price": 24732
+      },
+      {
+        "width": 4.5,
+        "depth": 4.5,
+        "price": 26442
+      },
+      {
+        "width": 4.5,
+        "depth": 5.0,
+        "price": 27696
+      },
+      {
+        "width": 5.0,
+        "depth": 2.5,
+        "price": 21312
+      },
+      {
+        "width": 5.0,
+        "depth": 3.0,
+        "price": 22680
+      },
+      {
+        "width": 5.0,
+        "depth": 3.5,
+        "price": 24390
+      },
+      {
+        "width": 5.0,
+        "depth": 4.0,
+        "price": 26100
+      },
+      {
+        "width": 5.0,
+        "depth": 4.5,
+        "price": 27810
+      },
+      {
+        "width": 5.0,
+        "depth": 5.0,
+        "price": 29520
+      },
+      {
+        "width": 5.5,
+        "depth": 2.5,
+        "price": 22224
+      },
+      {
+        "width": 5.5,
+        "depth": 3.0,
+        "price": 23934
+      },
+      {
+        "width": 5.5,
+        "depth": 3.5,
+        "price": 25644
+      },
+      {
+        "width": 5.5,
+        "depth": 4.0,
+        "price": 27696
+      },
+      {
+        "width": 5.5,
+        "depth": 4.5,
+        "price": 29178
+      },
+      {
+        "width": 5.5,
+        "depth": 5.0,
+        "price": 31230
+      },
+      {
+        "width": 6.0,
+        "depth": 2.5,
+        "price": 22794
+      },
+      {
+        "width": 6.0,
+        "depth": 3.0,
+        "price": 25188
+      },
+      {
+        "width": 6.0,
+        "depth": 3.5,
+        "price": 27240
+      },
+      {
+        "width": 6.0,
+        "depth": 4.0,
+        "price": 28722
+      },
+      {
+        "width": 6.0,
+        "depth": 4.5,
+        "price": 30888
+      },
+      {
+        "width": 6.0,
+        "depth": 5.0,
+        "price": 33510
+      },
+      {
+        "width": 6.5,
+        "depth": 2.5,
+        "price": 24276
+      },
+      {
+        "width": 6.5,
+        "depth": 3.0,
+        "price": 26100
+      },
+      {
+        "width": 6.5,
+        "depth": 3.5,
+        "price": 28266
+      },
+      {
+        "width": 6.5,
+        "depth": 4.0,
+        "price": 30432
+      },
+      {
+        "width": 6.5,
+        "depth": 4.5,
+        "price": 32598
+      },
+      {
+        "width": 7.0,
+        "depth": 2.5,
+        "price": 25188
+      },
+      {
+        "width": 7.0,
+        "depth": 3.0,
+        "price": 27696
+      },
+      {
+        "width": 7.0,
+        "depth": 3.5,
+        "price": 29520
+      },
+      {
+        "width": 7.0,
+        "depth": 4.0,
+        "price": 32028
+      },
+      {
+        "width": 7.0,
+        "depth": 4.5,
+        "price": 34194
+      },
+      {
+        "width": 7.5,
+        "depth": 2.5,
+        "price": 25986
+      },
+      {
+        "width": 7.5,
+        "depth": 3.0,
+        "price": 28608
+      },
+      {
+        "width": 7.5,
+        "depth": 3.5,
+        "price": 30774
+      },
+      {
+        "width": 7.5,
+        "depth": 4.0,
+        "price": 33396
+      },
+      {
+        "width": 8.0,
+        "depth": 2.5,
+        "price": 26898
+      },
+      {
+        "width": 8.0,
+        "depth": 3.0,
+        "price": 29520
+      },
+      {
+        "width": 8.0,
+        "depth": 3.5,
+        "price": 31914
+      },
+      {
+        "width": 8.0,
+        "depth": 4.0,
+        "price": 35334
+      },
+      {
+        "width": 8.5,
+        "depth": 2.5,
+        "price": 28380
+      },
+      {
+        "width": 8.5,
+        "depth": 3.0,
+        "price": 30774
+      },
+      {
+        "width": 8.5,
+        "depth": 3.5,
+        "price": 33396
+      },
+      {
+        "width": 9.0,
+        "depth": 2.5,
+        "price": 29292
+      },
+      {
+        "width": 9.0,
+        "depth": 3.0,
+        "price": 31914
+      },
+      {
+        "width": 9.0,
+        "depth": 3.5,
+        "price": 34992
+      },
+      {
+        "width": 9.5,
+        "depth": 2.5,
+        "price": 29862
+      },
+      {
+        "width": 9.5,
+        "depth": 3.0,
+        "price": 33168
+      },
+      {
+        "width": 10.0,
+        "depth": 2.5,
+        "price": 31002
+      },
+      {
+        "width": 10.0,
+        "depth": 3.0,
+        "price": 34422
+      }
+    ],
+    "concave": [
+      {
+        "width": 2.5,
+        "depth": 2.5,
+        "price": 18006
+      },
+      {
+        "width": 3.0,
+        "depth": 2.5,
+        "price": 18861
+      },
+      {
+        "width": 3.0,
+        "depth": 3.0,
+        "price": 20001
+      },
+      {
+        "width": 3.0,
+        "depth": 3.5,
+        "price": 20685
+      },
+      {
+        "width": 3.0,
+        "depth": 4.0,
+        "price": 21483
+      },
+      {
+        "width": 3.0,
+        "depth": 4.5,
+        "price": 22395
+      },
+      {
+        "width": 3.0,
+        "depth": 5.0,
+        "price": 23193
+      },
+      {
+        "width": 3.5,
+        "depth": 2.5,
+        "price": 19830
+      },
+      {
+        "width": 3.5,
+        "depth": 3.0,
+        "price": 20742
+      },
+      {
+        "width": 3.5,
+        "depth": 3.5,
+        "price": 21654
+      },
+      {
+        "width": 3.5,
+        "depth": 4.0,
+        "price": 22566
+      },
+      {
+        "width": 3.5,
+        "depth": 4.5,
+        "price": 23820
+      },
+      {
+        "width": 3.5,
+        "depth": 5.0,
+        "price": 25074
+      },
+      {
+        "width": 4.0,
+        "depth": 2.5,
+        "price": 20799
+      },
+      {
+        "width": 4.0,
+        "depth": 3.0,
+        "price": 21711
+      },
+      {
+        "width": 4.0,
+        "depth": 3.5,
+        "price": 22737
+      },
+      {
+        "width": 4.0,
+        "depth": 4.0,
+        "price": 24333
+      },
+      {
+        "width": 4.0,
+        "depth": 4.5,
+        "price": 25587
+      },
+      {
+        "width": 4.0,
+        "depth": 5.0,
+        "price": 26841
+      },
+      {
+        "width": 4.5,
+        "depth": 2.5,
+        "price": 21426
+      },
+      {
+        "width": 4.5,
+        "depth": 3.0,
+        "price": 22680
+      },
+      {
+        "width": 4.5,
+        "depth": 3.5,
+        "price": 24048
+      },
+      {
+        "width": 4.5,
+        "depth": 4.0,
+        "price": 25644
+      },
+      {
+        "width": 4.5,
+        "depth": 4.5,
+        "price": 27354
+      },
+      {
+        "width": 4.5,
+        "depth": 5.0,
+        "price": 28608
+      },
+      {
+        "width": 5.0,
+        "depth": 2.5,
+        "price": 22281
+      },
+      {
+        "width": 5.0,
+        "depth": 3.0,
+        "price": 23649
+      },
+      {
+        "width": 5.0,
+        "depth": 3.5,
+        "price": 25359
+      },
+      {
+        "width": 5.0,
+        "depth": 4.0,
+        "price": 27069
+      },
+      {
+        "width": 5.0,
+        "depth": 4.5,
+        "price": 28779
+      },
+      {
+        "width": 5.0,
+        "depth": 5.0,
+        "price": 30489
+      },
+      {
+        "width": 5.5,
+        "depth": 2.5,
+        "price": 23250
+      },
+      {
+        "width": 5.5,
+        "depth": 3.0,
+        "price": 24960
+      },
+      {
+        "width": 5.5,
+        "depth": 3.5,
+        "price": 26670
+      },
+      {
+        "width": 5.5,
+        "depth": 4.0,
+        "price": 28722
+      },
+      {
+        "width": 5.5,
+        "depth": 4.5,
+        "price": 30204
+      },
+      {
+        "width": 5.5,
+        "depth": 5.0,
+        "price": 32256
+      },
+      {
+        "width": 6.0,
+        "depth": 2.5,
+        "price": 23877
+      },
+      {
+        "width": 6.0,
+        "depth": 3.0,
+        "price": 26271
+      },
+      {
+        "width": 6.0,
+        "depth": 3.5,
+        "price": 28323
+      },
+      {
+        "width": 6.0,
+        "depth": 4.0,
+        "price": 29805
+      },
+      {
+        "width": 6.0,
+        "depth": 4.5,
+        "price": 31971
+      },
+      {
+        "width": 6.0,
+        "depth": 5.0,
+        "price": 34593
+      },
+      {
+        "width": 6.5,
+        "depth": 2.5,
+        "price": 25416
+      },
+      {
+        "width": 6.5,
+        "depth": 3.0,
+        "price": 27240
+      },
+      {
+        "width": 6.5,
+        "depth": 3.5,
+        "price": 29406
+      },
+      {
+        "width": 6.5,
+        "depth": 4.0,
+        "price": 31572
+      },
+      {
+        "width": 6.5,
+        "depth": 4.5,
+        "price": 33738
+      },
+      {
+        "width": 7.0,
+        "depth": 2.5,
+        "price": 26385
+      },
+      {
+        "width": 7.0,
+        "depth": 3.0,
+        "price": 28893
+      },
+      {
+        "width": 7.0,
+        "depth": 3.5,
+        "price": 30717
+      },
+      {
+        "width": 7.0,
+        "depth": 4.0,
+        "price": 33225
+      },
+      {
+        "width": 7.0,
+        "depth": 4.5,
+        "price": 35391
+      },
+      {
+        "width": 7.5,
+        "depth": 2.5,
+        "price": 27240
+      },
+      {
+        "width": 7.5,
+        "depth": 3.0,
+        "price": 29862
+      },
+      {
+        "width": 7.5,
+        "depth": 3.5,
+        "price": 32028
+      },
+      {
+        "width": 7.5,
+        "depth": 4.0,
+        "price": 34650
+      },
+      {
+        "width": 8.0,
+        "depth": 2.5,
+        "price": 28209
+      },
+      {
+        "width": 8.0,
+        "depth": 3.0,
+        "price": 30831
+      },
+      {
+        "width": 8.0,
+        "depth": 3.5,
+        "price": 33225
+      },
+      {
+        "width": 8.0,
+        "depth": 4.0,
+        "price": 36645
+      },
+      {
+        "width": 8.5,
+        "depth": 2.5,
+        "price": 29748
+      },
+      {
+        "width": 8.5,
+        "depth": 3.0,
+        "price": 32142
+      },
+      {
+        "width": 8.5,
+        "depth": 3.5,
+        "price": 34764
+      },
+      {
+        "width": 9.0,
+        "depth": 2.5,
+        "price": 30717
+      },
+      {
+        "width": 9.0,
+        "depth": 3.0,
+        "price": 33339
+      },
+      {
+        "width": 9.0,
+        "depth": 3.5,
+        "price": 36417
+      },
+      {
+        "width": 9.5,
+        "depth": 2.5,
+        "price": 31344
+      },
+      {
+        "width": 9.5,
+        "depth": 3.0,
+        "price": 34650
+      },
+      {
+        "width": 10.0,
+        "depth": 2.5,
+        "price": 32541
+      },
+      {
+        "width": 10.0,
+        "depth": 3.0,
+        "price": 35961
+      }
+    ],
+    "canopy-corner": [
+      {
+        "width": 2.5,
+        "depth": 2.5,
+        "price": 18006
+      },
+      {
+        "width": 3.0,
+        "depth": 2.5,
+        "price": 18861
+      },
+      {
+        "width": 3.0,
+        "depth": 3.0,
+        "price": 20001
+      },
+      {
+        "width": 3.0,
+        "depth": 3.5,
+        "price": 20685
+      },
+      {
+        "width": 3.0,
+        "depth": 4.0,
+        "price": 21483
+      },
+      {
+        "width": 3.0,
+        "depth": 4.5,
+        "price": 22395
+      },
+      {
+        "width": 3.0,
+        "depth": 5.0,
+        "price": 23193
+      },
+      {
+        "width": 3.5,
+        "depth": 2.5,
+        "price": 19830
+      },
+      {
+        "width": 3.5,
+        "depth": 3.0,
+        "price": 20742
+      },
+      {
+        "width": 3.5,
+        "depth": 3.5,
+        "price": 21654
+      },
+      {
+        "width": 3.5,
+        "depth": 4.0,
+        "price": 22566
+      },
+      {
+        "width": 3.5,
+        "depth": 4.5,
+        "price": 23820
+      },
+      {
+        "width": 3.5,
+        "depth": 5.0,
+        "price": 25074
+      },
+      {
+        "width": 4.0,
+        "depth": 2.5,
+        "price": 20799
+      },
+      {
+        "width": 4.0,
+        "depth": 3.0,
+        "price": 21711
+      },
+      {
+        "width": 4.0,
+        "depth": 3.5,
+        "price": 22737
+      },
+      {
+        "width": 4.0,
+        "depth": 4.0,
+        "price": 24333
+      },
+      {
+        "width": 4.0,
+        "depth": 4.5,
+        "price": 25587
+      },
+      {
+        "width": 4.0,
+        "depth": 5.0,
+        "price": 26841
+      },
+      {
+        "width": 4.5,
+        "depth": 2.5,
+        "price": 21426
+      },
+      {
+        "width": 4.5,
+        "depth": 3.0,
+        "price": 22680
+      },
+      {
+        "width": 4.5,
+        "depth": 3.5,
+        "price": 24048
+      },
+      {
+        "width": 4.5,
+        "depth": 4.0,
+        "price": 25644
+      },
+      {
+        "width": 4.5,
+        "depth": 4.5,
+        "price": 27354
+      },
+      {
+        "width": 4.5,
+        "depth": 5.0,
+        "price": 28608
+      },
+      {
+        "width": 5.0,
+        "depth": 2.5,
+        "price": 22281
+      },
+      {
+        "width": 5.0,
+        "depth": 3.0,
+        "price": 23649
+      },
+      {
+        "width": 5.0,
+        "depth": 3.5,
+        "price": 25359
+      },
+      {
+        "width": 5.0,
+        "depth": 4.0,
+        "price": 27069
+      },
+      {
+        "width": 5.0,
+        "depth": 4.5,
+        "price": 28779
+      },
+      {
+        "width": 5.0,
+        "depth": 5.0,
+        "price": 30489
+      },
+      {
+        "width": 5.5,
+        "depth": 2.5,
+        "price": 23250
+      },
+      {
+        "width": 5.5,
+        "depth": 3.0,
+        "price": 24960
+      },
+      {
+        "width": 5.5,
+        "depth": 3.5,
+        "price": 26670
+      },
+      {
+        "width": 5.5,
+        "depth": 4.0,
+        "price": 28722
+      },
+      {
+        "width": 5.5,
+        "depth": 4.5,
+        "price": 30204
+      },
+      {
+        "width": 5.5,
+        "depth": 5.0,
+        "price": 32256
+      },
+      {
+        "width": 6.0,
+        "depth": 2.5,
+        "price": 23877
+      },
+      {
+        "width": 6.0,
+        "depth": 3.0,
+        "price": 26271
+      },
+      {
+        "width": 6.0,
+        "depth": 3.5,
+        "price": 28323
+      },
+      {
+        "width": 6.0,
+        "depth": 4.0,
+        "price": 29805
+      },
+      {
+        "width": 6.0,
+        "depth": 4.5,
+        "price": 31971
+      },
+      {
+        "width": 6.0,
+        "depth": 5.0,
+        "price": 34593
+      },
+      {
+        "width": 6.5,
+        "depth": 2.5,
+        "price": 25416
+      },
+      {
+        "width": 6.5,
+        "depth": 3.0,
+        "price": 27240
+      },
+      {
+        "width": 6.5,
+        "depth": 3.5,
+        "price": 29406
+      },
+      {
+        "width": 6.5,
+        "depth": 4.0,
+        "price": 31572
+      },
+      {
+        "width": 6.5,
+        "depth": 4.5,
+        "price": 33738
+      },
+      {
+        "width": 7.0,
+        "depth": 2.5,
+        "price": 26385
+      },
+      {
+        "width": 7.0,
+        "depth": 3.0,
+        "price": 28893
+      },
+      {
+        "width": 7.0,
+        "depth": 3.5,
+        "price": 30717
+      },
+      {
+        "width": 7.0,
+        "depth": 4.0,
+        "price": 33225
+      },
+      {
+        "width": 7.0,
+        "depth": 4.5,
+        "price": 35391
+      },
+      {
+        "width": 7.5,
+        "depth": 2.5,
+        "price": 27240
+      },
+      {
+        "width": 7.5,
+        "depth": 3.0,
+        "price": 29862
+      },
+      {
+        "width": 7.5,
+        "depth": 3.5,
+        "price": 32028
+      },
+      {
+        "width": 7.5,
+        "depth": 4.0,
+        "price": 34650
+      },
+      {
+        "width": 8.0,
+        "depth": 2.5,
+        "price": 28209
+      },
+      {
+        "width": 8.0,
+        "depth": 3.0,
+        "price": 30831
+      },
+      {
+        "width": 8.0,
+        "depth": 3.5,
+        "price": 33225
+      },
+      {
+        "width": 8.0,
+        "depth": 4.0,
+        "price": 36645
+      },
+      {
+        "width": 8.5,
+        "depth": 2.5,
+        "price": 29748
+      },
+      {
+        "width": 8.5,
+        "depth": 3.0,
+        "price": 32142
+      },
+      {
+        "width": 8.5,
+        "depth": 3.5,
+        "price": 34764
+      },
+      {
+        "width": 9.0,
+        "depth": 2.5,
+        "price": 30717
+      },
+      {
+        "width": 9.0,
+        "depth": 3.0,
+        "price": 33339
+      },
+      {
+        "width": 9.0,
+        "depth": 3.5,
+        "price": 36417
+      },
+      {
+        "width": 9.5,
+        "depth": 2.5,
+        "price": 31344
+      },
+      {
+        "width": 9.5,
+        "depth": 3.0,
+        "price": 34650
+      },
+      {
+        "width": 10.0,
+        "depth": 2.5,
+        "price": 32541
+      },
+      {
+        "width": 10.0,
+        "depth": 3.0,
+        "price": 35961
+      }
+    ]
+  }
+}
